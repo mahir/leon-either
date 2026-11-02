@@ -72,6 +72,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Catalysis series, 1970 to 1971: altered public behaviour as the work. [checked]
 - Food for the Spirit, 1971. [checked]
 - My Calling (Card) #1, 1986, cards handed out in response to racist remarks. [checked]
+- The Probable Trust Registry: The Rules of the Game #1 to 3, 2013: desks where visitors sign a contract with themselves to follow a rule; the signatures are kept in a registry. See `library/adrian-piper.md`. [checked]
 
 ### On Kawara
 - Today series (date paintings), from 4 January 1966. [checked]
@@ -119,6 +120,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Augustine, Confessions, Book XI: on time, "If no one asks me, I know; if I want to explain it to someone who asks, I do not know." (wording varies by translation) [known]
 - Rachel Whiteread, House, 1993: a concrete cast of the inside of a terraced house in East London, demolished in January 1994. Commissioned by Artangel. [checked]
 - Ian Wilson, spoken "oral communication" works from 1968 (Time, 1968), then the Discussions from 1970. [checked]
+- Tino Sehgal sells his works by spoken contract, with no paper and no photographs, for example This is propaganda, 2002, acquired by Tate in 2005. See `library/tino-sehgal.md`. [checked]
 - Britney Gallivan, high school student who in January 2002 worked out a formula for the limit of folding paper and then folded one very long strip of paper in half twelve times. Not an artist; cited as a fact. [checked]
 
 ## Works by Mario Mamodei
