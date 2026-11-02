@@ -102,7 +102,7 @@ Write one to three prompts, your choice, to suit the concept. One strong install
 
 Post one short message with:
 
-- the number and title, as a link to the work's page (`https://mahiryavuz.com/mario-mamodei/works/<slug>.html`),
+- the number and title, as a link to the work's page (`https://leoneither.com/works/<slug>.html`),
 - each image prompt in its own code block, numbered 1 to 3 in page order,
 - one line asking the user to send the generated images back in the chat, in that order.
 
