@@ -122,6 +122,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Ian Wilson, spoken "oral communication" works from 1968 (Time, 1968), then the Discussions from 1970. [checked]
 - Tino Sehgal sells his works by spoken contract, with no paper and no photographs, for example This is propaganda, 2002, acquired by Tate in 2005. See `library/tino-sehgal.md`. [checked]
 - Britney Gallivan, high school student who in January 2002 worked out a formula for the limit of folding paper and then folded one very long strip of paper in half twelve times. Not an artist; cited as a fact. [checked]
+- Zeno of Elea, the millet seed paradox: does one grain of millet make a sound when it falls, since a bushel of it does? Reported by Aristotle, Physics VII.5. [checked]
+- Marcel Duchamp, With Hidden Noise, 1916: a ball of twine between two brass plates; Walter Arensberg put an unknown object inside, which Duchamp never learned. See `library/marcel-duchamp.md`. [checked]
 
 ## Works by Mario Mamodei
 
