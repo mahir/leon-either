@@ -225,16 +225,7 @@ def index_page(works):
         f'<li class="next" data-slots="{",".join(map(str, slots_after(latest["_dt"])))}" data-arriving="{ARRIVING_HOURS}">'
         f'<span class="no">{latest["number"] + 1:03d}</span><span class="blank">&nbsp;</span><time>next</time></li>'
     )
-    # The newest work's main image. If its file has not arrived yet, the image removes itself and shows nothing.
-    shown = latest["_images"][0]
-    figure = (
-        f'<a class="latest" href="works/{latest["slug"]}.html"><figure>'
-        f'<img src="works/{shown["file"]}" alt="{e(shown["alt"])}" onerror="this.closest(\'.latest\').remove()">'
-        f'<figcaption><span class="no">{latest["number"]:03d}</span> <span class="t">{e(latest["title"])}</span></figcaption>'
-        f'</figure></a>'
-    )
     body = f"""<p class="bio">{e(BIO)}</p>
-{figure}
 <p class="label">{e(TAGLINE)}</p>
 <div class="list">
 <ol class="index" reversed>
