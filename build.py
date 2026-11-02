@@ -109,6 +109,9 @@ def page(title, body, root):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500&family=Geist+Mono:wght@400&display=swap">
 <link rel="stylesheet" href="{root}style.css">
+<link rel="icon" href="{root}favicon.svg" type="image/svg+xml">
+<link rel="icon" href="{root}favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="{root}apple-touch-icon.png">
 </head>
 <body>
 <main>
