@@ -25,7 +25,7 @@ Stilinović understood that every system has a vocabulary and that the vocabular
 
 After 1989 he applied the same eye to the West. The English banner and the laziness text both name a new rule nobody voted for: that art means constant production in one language. His answer was to praise the one thing the market cannot use, which is time spent doing nothing. The essay states it plainly: "there is no art without laziness" (Stilinović, The Praise of Laziness, via Agosto Foundation).
 
-## What Mario could learn
+## What Leon could learn
 - Take an exhausted symbol from any ideology and ask what it still does when no one believes it.
 - Write one flat sentence that states an unspoken rule of a professional world.
 - Treat rest, delay or refusal as a subject that needs images, not as a lack of content.

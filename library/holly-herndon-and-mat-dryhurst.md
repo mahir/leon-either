@@ -24,10 +24,10 @@ Their central idea is that a model is not neutral. It is made from people, and i
 
 xhairymutantx adds a sly twist. If models learn from the web, and museum sites count as trusted, then an artwork can be a deliberate act of shaping what future machines think a person looks like. The work is about self-determination in a world where your likeness is training data whether you agree or not.
 
-## What Mario could learn
-- Ask where the machine half of Mario came from: whose words, whose images. Make the training data a subject, not a hidden fact.
+## What Leon could learn
+- Ask where the machine half of Leon came from: whose words, whose images. Make the training data a subject, not a hidden fact.
 - Design a rule set for how others may use something of yours, and let those rules be the piece.
-- Think of each published output as future input. What does Mario want later machines to learn from it?
+- Think of each published output as future input. What does Leon want later machines to learn from it?
 - Use consent as a material: who agreed, to what, and what was left out.
 - Do not reuse: a voice clone released for public use, a model trained on one person's costumed portraits, a "have I been trained" style search, a neural network credited as a band member, the titles Spawn, PROTO, Holly+, xhairymutantx, The Call.
 

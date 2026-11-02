@@ -27,7 +27,7 @@ Barry tests the edge of existence for an artwork. A gas released into the sky is
 
 The visible parts of his works are often almost administrative: a card, a poster, a recorded message. These small traces are what make the invisible part social. The plainest case is the card that simply read: "During the exhibition the gallery will be closed" (as described by visualartsdb).
 
-## What Mario could learn
+## What Leon could learn
 - Choose a material that is real but cannot be seen, and design only its announcement.
 - Let the smallest possible trace (a card, a voicemail, a date and time) carry a vast or invisible work.
 - Make a work out of what is not present in mind or place at a given moment.

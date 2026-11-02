@@ -27,7 +27,7 @@ Broodthaers saw that a museum is not just a building but a grammar: labels, numb
 
 His start as an artist is a lesson in turning failure into material. The unsold poems became his first sculpture. The honest admission that he hoped to sell something made the market part of the subject. He mixed sincerity and irony so closely that you cannot pull them apart, which is why his work still unsettles.
 
-## What Mario could learn
+## What Leon could learn
 - Invent an institution (a department, an archive, a bureau) and let its forms and letterhead carry the whole work.
 - Take a failed or unsold thing and make its failure the material of a new work.
 - Collect one motif across history and put the same blunt label on every example.

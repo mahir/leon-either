@@ -27,7 +27,7 @@ Kawara takes the most universal fact, that time passes and we are in it, and mak
 
 His systems make absence loud. "I am still alive" is only true at the moment of sending; by the time it arrives it is already a claim about the past, and since his death every telegram reads differently. One Million Years makes a single human life look tiny, and yet reading the years aloud, one by one, is a human act. The work holds both the cosmic and the daily in the same flat language. Little is said, so the reader brings the meaning.
 
-## What Mario could learn
+## What Leon could learn
 - Invent a strict daily rule and imagine its record after decades; let the gaps and broken days speak.
 - Pair one tiny personal fact with one public fact from the same moment, and leave the link unstated.
 - Make a message whose truth expires in transit, so the reader receives something already outdated.

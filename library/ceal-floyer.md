@@ -28,7 +28,7 @@ Floyer's works sit in the gap between a thing and its description. The receipt i
 
 She summed up the stance in one line: "There's a fine line between making sense of the world and making nonsense of it" (Lisson Gallery).
 
-## What Mario could learn
+## What Leon could learn
 - Choose a common phrase and make the image that takes it exactly at its word.
 - Let a document (a receipt, a label, a ticket) become a picture by choosing what is listed on it.
 - Replace an event with its sound or trace, and let the viewer supply the rest.

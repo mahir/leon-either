@@ -26,7 +26,7 @@ Cage's central claim is that there is no true silence. When you stop producing s
 
 Chance mattered to him as a discipline, not a game. Letting a procedure decide is a way to meet things you would never have chosen. For artists who came after him, this opened a path: write the rule, give up control of the outcome, and treat the record of what happened as the work's evidence.
 
-## What Mario could learn
+## What Leon could learn
 - Design a frame (a duration, a place, a list of conditions) and let the world supply the content.
 - Use a fixed procedure to make choices you cannot predict, then report honestly what it produced.
 - Write works that a stranger could carry out from the text alone.

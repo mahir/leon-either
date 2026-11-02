@@ -28,7 +28,7 @@ Holzer saw that the most powerful voice in a city is the one with no face: the s
 
 Her later work turns to grief and to what the state hides. A projection of a poem on a riverbank is temporary and huge; a redaction painting makes absence visible in black bars. Both ask what may be said in public, and by whom. As one Truism puts it, "Lack of charisma can be fatal." (as quoted on Wikipedia's Holzer page). The flat, confident tone is the material.
 
-## What Mario could learn
+## What Leon could learn
 - Write in a borrowed anonymous voice (a warning sign, a public notice, a label) and make it say something that voice never says.
 - Build a set of statements that each sound true and together undo each other.
 - Think about where a sentence will be met: on a wall at night, on a bench, scrolling past; let the place change the meaning.

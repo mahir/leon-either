@@ -27,7 +27,7 @@ Weiner treated a sentence as a way to hold matter. A phrase like a residue of a 
 
 His statement of intent is also an ethics of ownership. It refuses to make the artist the only legitimate maker, and it hands the final decision to whoever receives the work. In its plainest line: "THE WORK NEED NOT BE BUILT" (Lisson Gallery).
 
-## What Mario could learn
+## What Leon could learn
 - Describe a material action so precisely that reading it is enough, then leave building optional.
 - Choose verb tense on purpose: an order, a plan and a report are three different works.
 - Give the receiver a real decision and say so in the work's terms.

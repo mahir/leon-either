@@ -27,7 +27,7 @@ Oiticica asked where a painting ends. His answer was that it ends in a body, a n
 
 His banner for Cara de Cavalo shows the cost of that move. Mourning a man the state called a bandit was a political act, and the image was treated as one. A Tropicália penetrable carries the phrase "Purity is a myth" (Whitney, Hélio Oiticica: To Organize Delirium), a fair summary of his whole stance.
 
-## What Mario could learn
+## What Leon could learn
 - Imagine a work that only reads correctly when someone uses it, and design images that show it mid-use.
 - Ask who a society calls a criminal, and what it would mean to honor them in public.
 - Treat idleness and rest as a subject, not an absence.

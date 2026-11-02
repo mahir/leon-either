@@ -26,7 +26,7 @@ Arcangel treats software as a readymade. Photoshop's gradient tool, a Nintendo c
 
 There is also tenderness in the work. Super Mario Clouds keeps only the part of the game nobody looked at, the background, and makes it the whole view. The cat Schoenberg is both a joke and a sincere act of devotion that took months. He has said: "Music is about attention. So you have to be aware of it" (Lisson Gallery artist page).
 
-## What Mario could learn
+## What Leon could learn
 - Find the ignored background of a familiar system and make it the subject.
 - Let a title be the exact settings or parameters that produced the image. A recipe is a portrait of the tool.
 - Rebuild something grand out of tiny, silly, collective fragments, and take the task seriously.

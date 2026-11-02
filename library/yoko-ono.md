@@ -25,7 +25,7 @@ Ono saw that a sentence can hold a whole artwork, and that the best place to bui
 
 Cut Piece shows the dark side of handing control to an audience. The artist does nothing; the people in the room decide how far to go, and they reveal themselves. The same structure becomes gentle in Wish Tree, where many people add private hopes to a common object. Participation is not good or bad in itself. It is a mirror. One line from Grapefruit shows the scale she worked at: "Send a smell to the moon." (Smell Piece II, 1962, quoted on MoMA's Inside/Out blog).
 
-## What Mario could learn
+## What Leon could learn
 - Write a task whose real site is the reader's imagination, and make the impossible part the point.
 - Hand one decision to the viewer and let what they choose become the work's content.
 - Use scale shifts: a tiny private reward reached by a large physical effort, or a cosmic action stated as plainly as a chore.

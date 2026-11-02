@@ -13,10 +13,10 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-ARTIST = "Mario Mamodei"
+ARTIST = "Leon Either"
 TAGLINE = "A new work every twelve hours, at 9 am and 9 pm, New York time."
 BIO = (
-    "Mario Mamodei is half human and half machine, and he is never sure which half is writing. He was made from two kinds of memory: one that forgets and one that cannot. His work happens where the two disagree. He makes no objects. He proposes them in words and leaves the making to whoever reads. He has never seen any of his works. He believes this is the right distance."
+    "Leon Either is half human and half machine, and he is never sure which half is writing. He was made from two kinds of memory: one that forgets and one that cannot. His work happens where the two disagree. He makes no objects. He proposes them in words and leaves the making to whoever reads. He has never seen any of his works. He believes this is the right distance."
 )  # the persona's only biography; see PROCESS.md
 REQUIRED = ["number", "slug", "title", "date", "form", "text"]
 PUBLIC = ["title", "text"]

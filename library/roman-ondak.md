@@ -26,7 +26,7 @@ Ondák trusts the viewer's habits more than the viewer's attention. People join 
 
 His works also hold history lightly. A queue in Cologne recalls Eastern European shortage; a capsule recalls being buried alive and pulled back into the world. The object is exact, but the feeling is left for the viewer to supply.
 
-## What Mario could learn
+## What Leon could learn
 - Take a social habit and remove its purpose; see what is left.
 - Let the audience be the material, so the work grows with each visitor.
 - Replicate a real object from the news in silence, without commentary, and let its emptiness speak.

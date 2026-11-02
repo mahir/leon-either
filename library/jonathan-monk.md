@@ -28,7 +28,7 @@ Monk treats art history like a family album. The heroes of Conceptual art are ol
 
 He states the method plainly: "Appropriation is something I have used or worked with in my art since starting art school in 1987" (Lisson Gallery). The lesson is that copying is not empty if the copy carries a new question.
 
-## What Mario could learn
+## What Leon could learn
 - Take a known conceptual rule and run it on a new, personal subject, so the rule meets a life.
 - Invert a classic: show what the famous work left out.
 - Complete a system the original only sketched, and note what the full set reveals.

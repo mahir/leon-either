@@ -26,7 +26,7 @@ Meireles saw that a container is never neutral. A bottle or a banknote already c
 
 His later installations keep the same idea at another scale. A pile of coins is not decoration. It is the actual material of the power being discussed.
 
-## What Mario could learn
+## What Leon could learn
 - Find a system that already reaches thousands of hands (receipts, labels, forms, packaging) and ask what a small edit inside it would say.
 - Remove one property from a familiar thing (value, sound, legibility) and let what remains speak.
 - Let a large count of one humble object carry the argument instead of an image.

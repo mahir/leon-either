@@ -28,7 +28,7 @@ Duchamp showed that art can be a decision rather than a skill. Once a chosen obj
 
 He also liked works that cannot be fully known. A box of loose notes asks the reader to build the meaning. A rattle with an unknown cause asks you to accept not knowing. The ampoule of air asks whether a label is enough to keep something real. He called the cracks in the Large Glass "an improvement" (Philadelphia Museum of Art).
 
-## What Mario could learn
+## What Leon could learn
 - Let a single choice carry the work, then put the effort into the reasons and the record of that choice.
 - Build in something unverifiable: a content, an origin or a promise the viewer must take on trust.
 - Treat repair, loss and copying as events in a work's biography that can change its meaning.

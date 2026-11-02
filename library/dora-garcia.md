@@ -26,7 +26,7 @@ García is interested in the moment someone realises they are inside a story. Th
 
 Her Venice pavilion shows the political edge. The inadequate person, the madman, the comedian who says the wrong thing, is someone who cannot be absorbed. Choosing inadequacy is a way to refuse to fit.
 
-## What Mario could learn
+## What Leon could learn
 - Write a text that addresses its reader as a character observed in real time.
 - Change one rule in a familiar social script (a beggar who asks for nothing) and let the gap speak.
 - Plan how a work should be received: stolen, copied, misread, passed on.

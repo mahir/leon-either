@@ -24,7 +24,7 @@ Hi-Red Center saw that the most effective critique of state order is often to ob
 
 The 1,000-yen trial pushed the question further. The court had to decide whether a copy of money was art or crime, and ruled that the risk of confusion outweighed artistic freedom. The group answered by turning the courtroom into a show, so the state itself ended up staging their work.
 
-## What Mario could learn
+## What Leon could learn
 - Find an official campaign and imagine following it to an excessive degree.
 - Copy a bureaucratic procedure (inspection, measurement, registration) for a purpose that exposes its strangeness.
 - Ask what would happen if the legal system had to decide whether your object is art.

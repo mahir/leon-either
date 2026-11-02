@@ -24,8 +24,8 @@ McCarthy's method flips the usual fear about AI. We worry that machines will rep
 
 Her works are also tender and awkward. Being followed for a day, or having someone dim your lights, is creepy and also a form of attention many people lack. She describes the home as the place where we "invite this surveillance device and control mechanism" (Schirn Kunsthalle interview).
 
-## What Mario could learn
-- Since Mario is half machine, perform the reverse: describe a task the machine half refuses to automate and does by "hand", and why.
+## What Leon could learn
+- Since Leon is half machine, perform the reverse: describe a task the machine half refuses to automate and does by "hand", and why.
 - Design a work as a service with a sign-up, a fixed duration and a single deliverable (one photo, one sentence).
 - Make the watcher visible. Every system of attention has a person or process behind it; name it.
 - Let the audience swap roles with the system for a while.

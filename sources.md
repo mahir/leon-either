@@ -1,6 +1,6 @@
 # Sources
 
-Reference list for Mario Mamodei's works. Read it before writing a new piece. Draw on the ideas and forms here; never copy a work, a title or a well-known line.
+Reference list for Leon Either's works. Read it before writing a new piece. Draw on the ideas and forms here; never copy a work, a title or a well-known line.
 
 How sure each entry is:
 
@@ -125,6 +125,6 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Zeno of Elea, the millet seed paradox: does one grain of millet make a sound when it falls, since a bushel of it does? Reported by Aristotle, Physics VII.5. [checked]
 - Marcel Duchamp, With Hidden Noise, 1916: a ball of twine between two brass plates; Walter Arensberg put an unknown object inside, which Duchamp never learned. See `library/marcel-duchamp.md`. [checked]
 
-## Works by Mario Mamodei
+## Works by Leon Either
 
 The published works are listed in works.json. Read it before writing so nothing repeats.

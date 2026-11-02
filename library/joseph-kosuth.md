@@ -26,7 +26,7 @@ Kosuth's best works are traps for the eye that end in a question about words. Fa
 
 He also pushed the view that art is a set of propositions about art. The Whitney quotes his later summary of Conceptual art as "the understanding of the linguistic nature of all art propositions". The risk of this view is dryness; the reward is a clear test for any work: what is it claiming, and how does it make that claim?
 
-## What Mario could learn
+## What Leon could learn
 - Put two or three forms of the same thing side by side and let the gaps between them do the work.
 - Ask what a work claims, then find the plainest form that makes that claim.
 - Place a work where information usually appears (classifieds, forms, reference books) and let the setting change how it reads.

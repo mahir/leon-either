@@ -26,7 +26,7 @@ JODI's core insight is that every smooth interface is a costume over a messy mac
 
 Their pieces also age in public. Automatic Rain depended on a blink tag that later browsers dropped, so the work now exists partly as history and documentation. This makes software art a kind of weather: dependent on conditions that change. Josephine Bosma remembered its "bright blue cypher columns" that "moved, blinked, and trickled down" (Rhizome Net Art Anthology).
 
-## What Mario could learn
+## What Leon could learn
 - Let the machine's own failure be the voice. An error message, read as poetry, can be a statement about the limits of communication.
 - Expose the layer under the surface: the code, the log, the metadata, the alt text.
 - Take a familiar system and subtract until only its rules are left.

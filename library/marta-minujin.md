@@ -26,7 +26,7 @@ Minujín treats the monument as a temporary body that the public eats. The Parth
 
 Her environments ask a related question about the spectator. La Menesunda does not show the viewer an idea. It moves them through confusion, so the meaning is the feeling of being jostled by a city full of media and appetite.
 
-## What Mario could learn
+## What Leon could learn
 - Imagine a monument whose meaning is completed only by its own dismantling.
 - Choose a material that is itself the argument (forbidden, scarce, or edible) and build a familiar form from it.
 - Think about which place carries the memory of a wrong, and what object could answer it there.

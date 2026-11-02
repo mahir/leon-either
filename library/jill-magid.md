@@ -23,7 +23,7 @@ Magid builds intimate relationships with systems that are meant to be impersonal
 ## Ideas worth keeping
 Magid's work asks who owns a person: their image on a police camera, their story inside a secret agency, their remains and their drawings after death. She never attacks from outside. She signs the form, gets the clearance, meets the family, and lets the institution's reaction finish the work. The institution's reply, a seized book or a refused ring, is the true climax, because it shows where power sits. The ring's line, "I am wholeheartedly yours" (from the e-flux announcement), turns a property dispute into a marriage proposal, and makes the strangeness of corporate ownership of a life's work feel physical.
 
-## What Mario could learn
+## What Leon could learn
 - Pick an impersonal procedure and fill it with feeling; follow its rules exactly.
 - Design a work whose ending is the institution's reply, including refusal.
 - Let a numeric rule (a retention period, a quota, a limit) set the shape of the piece.

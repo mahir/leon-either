@@ -16,13 +16,13 @@ Each entry gives the move, who has used it (see their files in this folder), wha
 
 ## Instruction and authorship
 
-**Instruction.** The work is a set of steps someone else may carry out, or may only imagine. LeWitt, Ono, Brecht, Knowles, Shiomi. Opens: the idea is the work; making it is optional. Trap: a to-do list. Mario's texts are never instructions; an instruction can appear inside a work, but the text thinks about it.
+**Instruction.** The work is a set of steps someone else may carry out, or may only imagine. LeWitt, Ono, Brecht, Knowles, Shiomi. Opens: the idea is the work; making it is optional. Trap: a to-do list. Leon's texts are never instructions; an instruction can appear inside a work, but the text thinks about it.
 
 **Transfer of authorship.** Someone else makes, finishes, speaks or decides. LeWitt's drafters, Baldessari's sign painters, Gonzalez-Torres's owners, Sehgal's interpreters, Cohen's AARON, Herndon and Dryhurst's Holly+. Opens: who is the artist when the hand is someone else's, or a machine's. Trap: a gimmick about outsourcing.
 
-**Fictional author or institution.** The work is made by an invented person or body. Kabakov's characters, Broodthaers's museum, Ono's imagined performers, and, for that matter, Mario himself. Opens: a fiction can tell the truth better than a report. Trap: lore that replaces the idea.
+**Fictional author or institution.** The work is made by an invented person or body. Kabakov's characters, Broodthaers's museum, Ono's imagined performers, and, for that matter, Leon himself. Opens: a fiction can tell the truth better than a report. Trap: lore that replaces the idea.
 
-**Reenactment and cover version.** Remaking or performing someone else's work so the repeat says something new. Baldessari Sings LeWitt, Monk, Arcangel, Alys. Opens: what survives a copy. Trap: homage with no turn. Mario must not remake existing works; use the move only on non-art material (a speech, a recipe, a weather report).
+**Reenactment and cover version.** Remaking or performing someone else's work so the repeat says something new. Baldessari Sings LeWitt, Monk, Arcangel, Alys. Opens: what survives a copy. Trap: homage with no turn. Leon must not remake existing works; use the move only on non-art material (a speech, a recipe, a weather report).
 
 ## Absence and the near-invisible
 
@@ -44,7 +44,7 @@ Each entry gives the move, who has used it (see their files in this folder), wha
 
 **Daily practice.** A small act repeated every day. Kawara, Song Dong, Knowles's Identical Lunch, Stilinovic. Opens: routine as devotion or as defiance. Trap: diary.
 
-**Deadline and date.** The date is the content. Kawara's Today paintings, Tiravanija's dated titles, Ono's time-bound pieces. Opens: the present as a thing you can hold. Trap: Mario's own works are already dated; never make the publishing rhythm the subject.
+**Deadline and date.** The date is the content. Kawara's Today paintings, Tiravanija's dated titles, Ono's time-bound pieces. Opens: the present as a thing you can hold. Trap: Leon's own works are already dated; never make the publishing rhythm the subject.
 
 **Transmission and loss.** Something sent a great distance and changed by the trip. Paterson's moon music, Shiomi's Spatial Poems, Horvitz's mail and time zone works. Opens: distance as an author. Trap: a science fact with no human stake.
 
@@ -68,7 +68,7 @@ Each entry gives the move, who has used it (see their files in this folder), wha
 
 **Encounter and catalysis.** An odd act done among strangers to change them, or the artist. Piper, Hi-Red Center, Alys, Sehgal. Opens: everyday life as the gallery. Trap: a prank.
 
-**Following and watching.** Tracking a stranger, being tracked, or becoming the watcher. Calle, McCarthy, Magid, Paglen. Opens: intimacy and surveillance as the same gesture. Trap: invading a real private person. Mario never targets real private people.
+**Following and watching.** Tracking a stranger, being tracked, or becoming the watcher. Calle, McCarthy, Magid, Paglen. Opens: intimacy and surveillance as the same gesture. Trap: invading a real private person. Leon never targets real private people.
 
 **Service and becoming the machine.** The artist plays an automated system, or hires one. McCarthy's LAUREN, Ian Wilson's staff instructions, Herndon and Dryhurst. Opens: what we hand over when we let something serve us. Trap: a tech demo.
 
@@ -76,7 +76,7 @@ Each entry gives the move, who has used it (see their files in this folder), wha
 
 **Institutional critique.** The museum, gallery or market becomes the material. Haacke, Broodthaers, Lippard, Tucuman Arde. Opens: who decides what counts. Trap: preaching.
 
-**Misuse of an official form.** A banknote, receipt, poll, certificate, ID or contract used for something it was never meant to carry. Meireles, Hi-Red Center, Haacke, Piper's calling cards, Floyer's till receipt, Magid's legal work. Opens: the power hidden in paperwork. Trap: forgery or anything illegal; Mario's works stay legal and safe.
+**Misuse of an official form.** A banknote, receipt, poll, certificate, ID or contract used for something it was never meant to carry. Meireles, Hi-Red Center, Haacke, Piper's calling cards, Floyer's till receipt, Magid's legal work. Opens: the power hidden in paperwork. Trap: forgery or anything illegal; Leon's works stay legal and safe.
 
 **Insertion and circulation.** The work travels through an existing system (money, mail, rumor, the internet) and spreads without a gallery. Meireles, Shiomi, Kawara's telegrams, Horvitz, Steyerl's poor image. Opens: art as something passed hand to hand. Trap: a stunt.
 
@@ -88,7 +88,7 @@ Each entry gives the move, who has used it (see their files in this folder), wha
 
 **Failure on purpose.** A task built to fail, or nearly. Ader, Baldessari, Alys's Paradox of Praxis, Arcangel. Opens: tenderness, effort, the comedy of trying. Trap: slapstick.
 
-**Endurance.** The body holds a rule past comfort. Hsieh, Ono's Cut Piece, Ader. Opens: will made visible. Trap: harm. Mario's works never ask anyone to do anything unsafe.
+**Endurance.** The body holds a rule past comfort. Hsieh, Ono's Cut Piece, Ader. Opens: will made visible. Trap: harm. Leon's works never ask anyone to do anything unsafe.
 
 **Destruction as making.** Burning, breaking or eating the work makes the work. Baldessari's cremation, Minujin's Partenon, Tucuman Arde leaving art. Opens: an ending as a beginning. Trap: waste.
 

@@ -26,7 +26,7 @@ Darboven shows that time can be made visible only by spending it. Her sheets are
 
 The result asks what it means to "know" a century. You cannot take in 1,590 panels. You can only walk past them and feel their weight. Her method suggests that writing is a bodily act before it is a message, and that a system followed patiently can produce something closer to music than to an archive.
 
-## What Mario could learn
+## What Leon could learn
 - Invent a simple conversion (a date to a number, a number to a sound, a word to a count) and imagine applying it without mercy to a long span of time.
 - Put grand history and cheap ephemera in the same uniform frame, and let the flatness be the argument.
 - Make a work whose meaning is the time it took, not what it says.

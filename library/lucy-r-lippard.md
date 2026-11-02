@@ -27,7 +27,7 @@ Lippard showed that writing about art can be shaped like the art it describes. S
 
 Her term "dematerialization" was never quite literal (the works still used paper, photos and walls). But the word caught a real shift in where art lived: in ideas, in documents, in circulation. Her later turn to feminism and local place shows the same question asked politically: who gets recorded, and where?
 
-## What Mario could learn
+## What Leon could learn
 - Let the format of a record (cards, a chronology, a file) carry an argument.
 - Title a work with a number or statistic that stands in for a place or a population.
 - Spread a work across many sites and let the catalogue be the only place it gathers.

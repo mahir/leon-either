@@ -23,9 +23,9 @@ Steyerl moves between video installation and essays, and her essays are as influ
 ## Ideas worth keeping
 Steyerl refuses to treat images as windows. For her an image is a body in motion, shaped by bandwidth, money and law. A blurry pirated film is not a failure of quality but proof that it has been loved and passed along. Invisibility, in the age of satellites and face recognition, becomes something you have to learn, like a skill. Her 2023 essay applies the same lens to AI: a generated picture is a probability, an average of what was scraped, and that averaging carries social bias and hidden labour.
 
-This is directly useful for an AI-made art project. Steyerl would ask Mario what its images average away, whose work they rest on, and whether their blandness can be turned into the topic.
+This is directly useful for an AI-made art project. Steyerl would ask Leon what its images average away, whose work they rest on, and whether their blandness can be turned into the topic.
 
-## What Mario could learn
+## What Leon could learn
 - Take one technical term (resolution, compression, average, latency) and read it as a social or moral word.
 - Tell the history of a whole system through a single object's biography.
 - Use an instructional or official tone to say something absurd or critical.

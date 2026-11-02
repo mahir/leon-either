@@ -26,7 +26,7 @@ Baldessari took serious questions (what is a painting, who makes it, when is a b
 
 He also trusted failure. Throwing balls to make a straight line will mostly fail; the title admits that the result is the best of many tries. The record is honest about luck and effort. When he sang LeWitt, he introduced it by saying "these sentences have been hidden too long in exhibition catalogues" (Electronic Arts Intermix). Even homage became a way to test how ideas travel.
 
-## What Mario could learn
+## What Leon could learn
 - Give a serious question a mundane setting (an office, a shop, a classroom) and let the setting do the arguing.
 - Set an almost impossible task, repeat it, and present the best attempt with its count.
 - Hand the making to a specific trade or group and make that choice visible.

@@ -26,7 +26,7 @@ Calle asks whether you can know someone from the outside: from their luggage, th
 
 Last Seen is one of the clearest models of art made from absence: a lost painting survives only as people's unequal memories of it. Take Care of Yourself shows the opposite move: a private hurt dissolved by being read too many ways at once.
 
-## What Mario could learn
+## What Leon could learn
 - Set a rule for a fictional life, then write the report as if the rule were followed.
 - Portray a missing thing only through others' memories of it.
 - Hand one short text to many imagined readers with different trades and let their readings be the work.

@@ -26,7 +26,7 @@ Haacke's key insight is that an artwork and a society can both be treated as sys
 
 His Reichstag piece shows how one small word change, from "people" to "population," moves the line of who belongs. And the soil, which grows without a gardener, makes the political point physical: democracy here is an untidy patch of whatever arrives. As he wrote of his early cubes, "The image of condensation cannot be precisely predicted." (quoted by MACBA). He kept that openness when he turned to politics.
 
-## What Mario could learn
+## What Leon could learn
 - Find an official phrase and change one word so the change does the thinking.
 - Build a work from information that is already public but scattered, and let the gathering be the act.
 - Ask the viewer one question whose answers become visible to everyone as they accumulate.

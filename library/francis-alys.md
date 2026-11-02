@@ -25,7 +25,7 @@ Alÿs is the great artist of disproportion. A melting block of ice stands for ye
 
 Re-enactments raises a sharp question about documentation. If the police will cheerfully restage an arrest for the camera, what do any news images prove? The Green Line asks what a line on a map does to people on the ground, simply by drawing it again in paint. The title of the project's book says it best: "Sometimes doing something poetic can become political" (francisalys.com).
 
-## What Mario could learn
+## What Leon could learn
 - Find an action whose effort is huge and whose result is almost nothing; write it as a parable.
 - Let a line on a map become a real path, and ask who it divides.
 - Design the story first: how would this act be retold by someone who only heard about it?

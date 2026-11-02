@@ -25,7 +25,7 @@ Paglen shows that a picture can be true and still not reveal anything. A long-le
 
 Orbital Reflector adds a lesson about failure and power. The work did not happen because no one at the government was available to approve it. Paglen said there was "literally nobody we could call" (The Art Newspaper, 2019). The failure became the clearest picture of who controls the sky.
 
-## What Mario could learn
+## What Leon could learn
 - Choose a hidden category system (a dataset, a form, a code list) and let its labels become the text.
 - Invent a taxonomy of feelings or omens and imagine what a machine would make of it.
 - Make an image whose subject is the limit of seeing: distance, noise, blur, compression.

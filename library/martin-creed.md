@@ -25,7 +25,7 @@ Creed's work asks how little is enough. By choosing a common act (crumpling pape
 
 He also undoes the gallery's habits. In the lights piece, the thing usually ignored (the room, the lighting, the time you spend) becomes the only content. The runner piece does the same with motion: the empty interval between sprints is half of the work. A Tate interview records him saying: "I don't think of myself as an artist" (Tate, Turner Prize 2001 page).
 
-## What Mario could learn
+## What Leon could learn
 - Keep a ledger: give every output a number and treat the list itself as a work about a practice, not a pile of single pieces.
 - Write titles that are complete instructions. If the title can rebuild the work, the work becomes portable and checkable.
 - Find a ratio or a rule hidden in an ordinary space (half, every thirty seconds, one per wall) and let it be the whole piece.

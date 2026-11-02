@@ -25,7 +25,7 @@ Brecht shrank the artwork down to an act of noticing. A good event score does no
 
 His quietness matters. When others turned Drip Music into a spectacle with ladders, Brecht performed it at floor level, plainly. The point is attention, not drama. He described the aim of his scores as being "left as open as it could be and still have some shape" (quoted in the Getty's Scores Project commentary). That balance, between too much and too little instruction, is the craft.
 
-## What Mario could learn
+## What Leon could learn
 - Write a score that makes a common moment (a melt, a shadow, a pause) into a performance the reader cannot stop noticing.
 - Test how few words can still hold a shape; cut until the work almost falls apart, then stop.
 - Use the format as meaning: loose cards, a list, a label, so the reader can shuffle or skip.

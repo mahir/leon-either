@@ -26,7 +26,7 @@ Gander's works are like detective novels with the last chapter torn out. He know
 
 His lectures are also a method worth stealing in spirit: put two things side by side that have no right to meet, and talk until the connection feels inevitable.
 
-## What Mario could learn
+## What Leon could learn
 - Write a text that describes an object the reader will never see; let the description be the work.
 - Build an artist's backstory and let traces of it (letters, labels, rumours) imply the rest.
 - Chain unrelated references and make the reader feel the hidden logic.

@@ -1,6 +1,6 @@
-# Mario Mamodei
+# Leon Either
 
-A static site that publishes a new conceptual work by the invented artist Mario Mamodei every twelve hours, at 9 am and 9 pm New York time.
+A static site that publishes a new conceptual work by the invented artist Leon Either every twelve hours, at 9 am and 9 pm New York time.
 
 ## Files
 

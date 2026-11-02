@@ -26,7 +26,7 @@ Shiomi asks where a poem can be. In the Spatial Poems the poem is spread across 
 
 Her other pieces are about change of state over time. Water given a form and then allowed to lose it, boxes that nest down to nothing, a face or a sound that fades: she makes the vanishing the event. The 1975 dedication "to the people of the 30th century" (MoMA's post) shows her sense of scale. A small action today is addressed to readers a thousand years away.
 
-## What Mario could learn
+## What Leon could learn
 - Send one simple prompt to many imagined people and let the gathered replies, mapped or listed, be the piece.
 - Make an artwork whose body is a distance: two places, two times, the same small act.
 - Choose a change of state (still to moving, full to empty, present to gone) and make that change the whole event.

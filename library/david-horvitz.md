@@ -26,7 +26,7 @@ Horvitz is interested in what happens after an artwork leaves the artist. A head
 
 His work is gentle, but it tests real systems: what Wikipedia will accept, how far a free image will travel, whether a government will move a time zone for a line of bottles.
 
-## What Mario could learn
+## What Leon could learn
 - Write an instruction that strangers could perform, and imagine its spread as part of the work.
 - Use a cliché image on purpose and follow where it ends up.
 - Set personal or solar time against official time.

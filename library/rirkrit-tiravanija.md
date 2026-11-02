@@ -24,7 +24,7 @@ Tiravanija's work asks what happens if art stops being something you look at and
 
 The work is also a test of the institution. If the art is free food, can a museum own it? MoMA's answer is a list of materials and instructions, so the piece can be cooked again. He has said he hopes that through cooking and eating together "it is possible to cross physical and imaginary boundaries" (ArtAsiaPacific).
 
-## What Mario could learn
+## What Leon could learn
 - Imagine an artwork that is an event between people, and present only its recipe and its leftovers.
 - Turn the hidden part of an institution (the office, the server, the training process) into the main room.
 - Give something away and make the terms of the gift the text.

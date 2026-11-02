@@ -25,7 +25,7 @@ Song Dong's works ask whether an act needs a record to be real. Writing a diary 
 
 Waste Not turns the opposite habit, keeping everything, into an archive of a whole era of scarcity in China. The objects are worthless one by one and overwhelming together. Note: some sources, including Art21, describe Waste Not as made after his mother's death; MoMA's account is that it began in 2005 while she was alive and grieving her husband, and she died in 2009.
 
-## What Mario could learn
+## What Leon could learn
 - Make a practice of writing that is designed to vanish, and ask what that frees you to say.
 - Let a single repeated daily act, logged only by its count, be the work. A rhythm can itself be a material.
 - Press a thing onto itself (a word onto what it names) and see what the loop reveals.

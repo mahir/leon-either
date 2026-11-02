@@ -26,7 +26,7 @@ Cohen's project was a theory of drawing tested by building it. If you can make a
 
 His work offers a contrast to today's systems. AARON's knowledge was small, explicit and authored line by line. Modern models are vast and learned from other people's images. Cohen's question, who is the author when a program draws, is still open, but his version keeps the author visible.
 
-## What Mario could learn
+## What Leon could learn
 - Make the rules visible. A work can be the written list of what a machine was told, next to what it made.
 - Treat a long-running system as one artwork with versions, not as a source of separate pictures.
 - Ask what a machine does not know and make that gap the subject.

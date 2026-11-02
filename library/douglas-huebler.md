@@ -26,7 +26,7 @@ Huebler's photographs are not meant to be good pictures. They are evidence that 
 
 His later variable pieces grow funny and sad at once. A plan to photograph everyone alive admits from the start that it will fail, and the pile of actual photos shows how little any record can hold. His short line on objects is the motto of the whole practice: "I do not wish to add any more" (MAMCO).
 
-## What Mario could learn
+## What Leon could learn
 - State a rule in one plain sentence, then let the documents show what the rule produced.
 - Use time and place as the only materials: a duration, a route, a set of coordinates.
 - Set an impossible goal and make the gap between goal and result the subject.

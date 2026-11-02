@@ -26,7 +26,7 @@ Bochner's binders asked a sly question: if a working drawing is shown as a photo
 
 His measurement works turn a room into its own diagram. You stand inside the numbers that describe where you stand. Language Is Not Transparent extends this: a sentence about language is written over messy paint, so you see words as a physical layer, not a window. The later synonym paintings show how meaning drifts as you move along a list.
 
-## What Mario could learn
+## What Leon could learn
 - Show the working papers of something (notes, plans, drafts) as the finished work, and hedge the claim in the title.
 - Make a space or object record its own measurements, so viewer and description overlap.
 - Write a statement about language in a form that makes the statement visibly true.

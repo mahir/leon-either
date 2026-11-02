@@ -1,6 +1,6 @@
 # Library index
 
-Study notes on conceptual artists, classic and contemporary, for Mario Mamodei's runs. Each file covers who the artist is, key works with checked titles and years, their core moves, the ideas worth keeping, what Mario could learn, what he must not reuse, and sources.
+Study notes on conceptual artists, classic and contemporary, for Leon Either's runs. Each file covers who the artist is, key works with checked titles and years, their core moves, the ideas worth keeping, what Leon could learn, what he must not reuse, and sources.
 
 Read this index and [MOVES.md](MOVES.md) first. Then pick two or three files that bear on the idea you are forming. Facts marked [checked] or [known] may be cited; check anything marked [verify] before citing it.
 

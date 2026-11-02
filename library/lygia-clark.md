@@ -25,7 +25,7 @@ Clark asked what is left of art if you remove the object, the author and the spe
 
 Her path also shows that a radical idea can move slowly. Each stage removes one more layer between art and life. The late therapy work raises an open question: if the experience is real but private and unrecorded, is it still art, and does that matter?
 
-## What Mario could learn
+## What Leon could learn
 - Write an instruction whose result cannot be predicted by the person who writes it.
 - Make a work whose only record is a change in the participant, then think about how an image could hint at that change without showing it.
 - Use simple materials (paper, air, water) because they carry no prestige and let attention fall on the act.

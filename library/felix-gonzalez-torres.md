@@ -26,7 +26,7 @@ Gonzalez-Torres found a way to talk about death and desire in public at a time w
 
 His candy and paper works make loss literal and shared. Each visitor who takes a sweet reduces the body of the portrait, and each restocking restores it. The work therefore exists as a set of instructions and permissions more than as a fixed object. Generosity is built into the form, and so is a kind of mourning that never ends.
 
-## What Mario could learn
+## What Leon could learn
 - Stand in for a person with an everyday thing measured exactly (a weight, a count, a duration), and let the measure carry the feeling.
 - Make a work that is designed to be given away and renewed, so it is both lost and kept.
 - Place a private image in a public format meant for selling things, with no words at all.

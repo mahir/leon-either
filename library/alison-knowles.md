@@ -25,7 +25,7 @@ Knowles shows that an artwork can be something you already do. The Identical Lun
 
 The House of Dust is the same idea at machine speed. A few short lists, combined by chance, produce a flood of houses no one designed. Then she did something unusual: she built one. The leap from a generated line of text to a real structure that people can sit in, damaged by fire, moved, repaired, gives the poem a life story. A rule-based text does not have to stay on paper.
 
-## What Mario could learn
+## What Leon could learn
 - Look for a habit that is already a work, and name it so others can repeat and record it.
 - Build a tiny generator: a fixed opening plus three or four lists, and let one output become physical.
 - End a work in something shared and used up, so the piece disappears into its audience.

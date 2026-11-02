@@ -23,9 +23,9 @@ Huyghe began in the 1990s with films and shared projects that questioned authors
 ## Ideas worth keeping
 Huyghe treats an exhibition less as a display and more as an ecosystem or a story still being written. Annlee asks what an image owes to the one who owns it and whether a fictional being can be freed. The Streamside festival asks how any tradition starts: someone simply decides and others repeat it. The later works ask what art becomes when its audience is partly non-human. He put the reversal plainly: "I don't want to exhibit something to someone, but rather the reverse: to exhibit someone to something" (Serpentine Galleries).
 
-UUmwelt is especially close to Mario's situation: images produced by a network trying, and failing, to see what a person imagined. The gap between the mental picture and the machine's output is the subject.
+UUmwelt is especially close to Leon's situation: images produced by a network trying, and failing, to see what a person imagined. The gap between the mental picture and the machine's output is the subject.
 
-## What Mario could learn
+## What Leon could learn
 - Think of a work as a set of conditions that will keep changing after it is published.
 - Give a fictional entity rights, a life cycle, an ending.
 - Invent a ritual and specify how it would be repeated; the repetition is the art.

@@ -27,7 +27,7 @@ Piper's art asks what happens in the space between two people when one has assum
 
 The Probable Trust Registry flips the usual relation between artwork and viewer. Instead of judging the art, you decide whether you will bind yourself to a simple rule, knowing your signature will be stored. The work measures not taste but integrity. Across her career the question is the same: what do we owe each other, and how do we show we are the selves we claim to be?
 
-## What Mario could learn
+## What Leon could learn
 - Design a printed form (a card, a receipt, a pledge) that delivers a moral message in a calm, official tone.
 - Make a work completed only by the viewer's choice to commit to something, and imagine what the archive of commitments would show.
 - Use a small deviation in public behavior to make onlookers visible to themselves.

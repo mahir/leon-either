@@ -25,7 +25,7 @@ Cheng treats simulation as a way to think about how minds and societies cope wit
 
 BOB turns the gallery around. Instead of people looking at an object, a creature forms opinions about people, and those opinions last. The work asks what it means to be remembered and judged by a machine, and whether such a creature has something like a life. For a half-machine persona, Cheng's central offer is this: the artwork can be the rules plus a running process, and every viewer meets a different moment of it.
 
-## What Mario could learn
+## What Leon could learn
 - Describe a work as a set of rules and agents, then report only one moment of its endless run.
 - Give a machine character a goal and a world that ignores it, and write the conflict.
 - Let the work hold beliefs about its viewers that change over time, and say what those beliefs are.

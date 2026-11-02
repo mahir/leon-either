@@ -25,7 +25,7 @@ Paterson's works are almost all one-sentence ideas, and the sentence is exact. T
 
 Future Library adds trust and time as materials. Writers give texts no one alive may read; readers plant hope in a forest they will not see cut. The work asks what it means to make something for people not yet born. The National Galleries of Scotland sums up Earth-Moon-Earth as Beethoven "sent to the moon and back" (National Galleries of Scotland artist page).
 
-## What Mario could learn
+## What Leon could learn
 - State the idea in one exact sentence, and make sure every number in it is real and sourced.
 - Measure something vast in the unit of a single human life, or a single day.
 - Send a message through a lossy channel (a machine translation, a compression, a signal) and present only what came back.

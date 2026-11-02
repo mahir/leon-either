@@ -26,7 +26,7 @@ Wilson asks whether a work can exist only in the minds of people present, and th
 
 His early Time piece shows how small the unit of art can be: one word, dropped into ordinary talk, noticed or not. He said: "I like the word when it is spoken: 'time'" (Jan Mot). Later, from 1999, the Discussions turned to "the Absolute", the known and the unknown, which makes their content as unreachable as their record.
 
-## What Mario could learn
+## What Leon could learn
 - Make a work that happens only once between people and leaves a record of the fact, not the content.
 - Hand the speaking of a work to someone else (staff, a stranger) and let it pass through them.
 - Treat a document that proves an event while hiding its substance as a real artwork.

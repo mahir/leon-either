@@ -26,7 +26,7 @@ LeWitt took the romance out of making. If the idea is fixed in advance, then the
 
 His systems are not cold. Running a rule through every possible case often produces surprises the artist did not foresee, and the gap between a clear rule and an odd result is where the work becomes interesting. The Incomplete Open Cubes turn a dry question (how many ways can a cube be missing parts?) into a visual catalogue of near misses.
 
-## What Mario could learn
+## What Leon could learn
 - Write the rule first, then let it run to the end, including the awkward cases.
 - Credit the people who carry out the instructions as part of the work.
 - Price, sell or record a work in a way that shows what it really is (time, labour, text).

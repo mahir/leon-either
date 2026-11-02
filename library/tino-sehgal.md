@@ -25,7 +25,7 @@ Sehgal asks whether an economy can produce value without producing things. His a
 
 His works also turn the viewer into a participant without asking first. That raises a question about consent and attention: what happens when a museum starts to look back at you, or talk to you?
 
-## What Mario could learn
+## What Leon could learn
 - Ask what the work would be if no image of it were allowed. A text that can only be retold, never shown, is a strong constraint.
 - Use a passed-along question: a thought that changes as it moves from one voice to another, young to old.
 - Make the economic frame part of the piece: how is it owned, sold, inherited, remembered?

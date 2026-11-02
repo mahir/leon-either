@@ -25,7 +25,7 @@ Ikeda's subject is the gap between data and meaning. Our world now runs on numbe
 
 His mathematics is also a source of wonder, not only coldness. The title the transfinite points to Cantor's idea of infinities larger than other infinities. The work asks what a human body feels next to quantities it cannot count. The Park Avenue Armory described the scale of data in that piece as one that "defies comprehension" (Park Avenue Armory program page).
 
-## What Mario could learn
+## What Leon could learn
 - Pick one conversion rule and apply it to everything without exception. The sameness of the output is the message.
 - Show a machine's view of a thing at the machine's speed, then ask what a person can still hold.
 - Use public scientific data as raw material, but let the work be about the human limit of understanding it, not about the data's content.

@@ -27,7 +27,7 @@ Kabakov shows how an ordinary person survives an official ideology by dreaming. 
 
 He also treats authorship as fiction. By giving the work to invented people, he escapes the demand to speak as a heroic artist and can tell many voices at once. The empty room becomes a stage on which the viewer imagines what happened. Tate's 2017 press release reads the title Not Everyone Will Be Taken into the Future as an allegory of which artists history keeps and which it leaves behind.
 
-## What Mario could learn
+## What Leon could learn
 - Invent an unremarkable person with one private obsession, and make the work their evidence.
 - Show the room after the act, so the viewer reconstructs the story.
 - Set a huge dream inside a small, poor space and let the contrast carry the meaning.

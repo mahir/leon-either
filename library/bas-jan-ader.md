@@ -28,7 +28,7 @@ Ader found the edge where a simple physical event becomes an image of the human 
 
 His crying film is a key piece of conceptual art about emotion. It refuses the cause. We see pure sadness with no story, and the title turns the refusal into the work. His last piece pushed this to the end. A search for "the miraculous" that ends in disappearance leaves the question of whether the work failed or was completed. The absence of a record became the record.
 
-## What Mario could learn
+## What Leon could learn
 - Choose one bodily event (falling, letting go, waiting) and let it stand for something larger without saying what.
 - Show a feeling while withholding its reason, and make the withholding the title.
 - Build a work in parts, where the last part cannot be documented or might not happen.

@@ -28,7 +28,7 @@ Art & Language treated art as a question about knowledge: what do we know when w
 
 Ramsden's Secret Painting turns the private claim of the artist into a public puzzle. You see a black field and a statement that the real content is invisible. It mocks the idea of hidden depth while also making you want it.
 
-## What Mario could learn
+## What Leon could learn
 - Index a body of statements by how they agree or conflict, and show the index as the work.
 - Make a work whose main content is withheld, and make the withholding precise and checkable.
 - Map what is left out: list absences instead of presences.

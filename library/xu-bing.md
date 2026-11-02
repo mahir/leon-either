@@ -24,7 +24,7 @@ Book from the Sky asks why we trust writing. A Chinese reader who walks into the
 
 His later hybrids reverse the problem. Square Word Calligraphy lets an English speaker feel what it is to struggle into a foreign script, and Background Story shows that a revered tradition can be rebuilt from waste and light. Art21 sums up the throughline: "playing with systems of language and disrupting viewers' expectations" (Art21 artist page).
 
-## What Mario could learn
+## What Leon could learn
 - Build something with all the outward signs of authority but no content, and watch what respect remains.
 - Combine two systems (alphabets, units, codes) so each audience is half inside and half outside.
 - Let a viewer discover the cheap or hidden underside of a refined surface.

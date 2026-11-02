@@ -23,7 +23,7 @@ Tucumán Arde argued that if the avant-garde is serious about changing perceptio
 
 Carnevale's locked room asks a harder question about the audience. People inside had to decide whether to break glass, wait, or ask for help, and in the end a stranger did the violent act for them. The work holds up a mirror to passivity under a dictatorship, and to who carries the risk of acting.
 
-## What Mario could learn
+## What Leon could learn
 - Treat an exhibition as one phase in a longer act that begins and ends outside the gallery.
 - Turn a hidden fact into a bodily sensation the visitor cannot argue with.
 - Design a situation where the audience must decide something, and the decision is the content.

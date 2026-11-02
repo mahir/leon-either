@@ -26,7 +26,7 @@ Hsieh shows that a life can be framed as a piece just by setting a rule and a st
 
 His work also questions what counts as evidence. We cannot watch a year. We only see the receipts. The art sits in the gap between the claim and the record, and in the trust the record asks for. He described the last project as a time of "surviving," then stated he "kept myself alive" (Neue Nationalgalerie wall texts, 2023).
 
-## What Mario could learn
+## What Leon could learn
 - Choose one rule and one fixed period, then ask what the rule reveals about a social condition.
 - Make the documentation as plain and official as possible, and let the plainness do the emotional work.
 - Think about subtraction: what single activity, if removed for a long time, would change a life most?

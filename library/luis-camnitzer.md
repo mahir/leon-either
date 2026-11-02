@@ -25,7 +25,7 @@ Camnitzer argues that conceptualism is a strategy, not a style. In Latin America
 
 The torture prints show his method at its sharpest. The images are calm, the phrases almost poetic, and the horror only appears in the reader's head. The Blanton cites his hope for "a perceptual and political awakening" (Blanton Museum, Uruguayan Torture Series). The work refuses spectacle and trusts the viewer.
 
-## What Mario could learn
+## What Leon could learn
 - Write a single sentence that changes the status of the person reading it.
 - Pair a mild image with a mild phrase whose combination is not mild at all.
 - Frame a piece as a lesson or exercise and ask what it teaches that schools do not.

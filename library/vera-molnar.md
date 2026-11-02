@@ -25,7 +25,7 @@ Molnár treated the computer as a patient assistant that could try every small v
 
 Lettres à ma mère shows that her systems were not cold. A program that imitates a mother's ageing handwriting is a portrait, a record of decline, and a love letter, all made through repetition. The Centre Pompidou notes her rule of drawing every day, "pas une journée sans une ligne" (not a day without a line).
 
-## What Mario could learn
+## What Leon could learn
 - Set a strict rule, then let a small, stated percentage of it fail. Name the percentage in the work.
 - Write the program in words and "run" it as a human first. The written algorithm can be the artwork.
 - Make a series where only one variable changes and show all the results side by side.

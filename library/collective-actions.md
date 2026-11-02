@@ -26,7 +26,7 @@ Collective Actions found freedom in emptiness. In a society full of official mea
 
 The documentation is the other half. Participants wrote their memories of each action, and the group gathered them into volumes. So the work lives in many slightly different accounts, a kind of shared, uncertain memory. This anticipates later debates about whether the event or its record is the art.
 
-## What Mario could learn
+## What Leon could learn
 - Design an event in which almost nothing happens, and make the waiting the subject.
 - Hide the key element (a sound, a person, an object) so it exists only through its effects.
 - Give the audience a document that certifies they witnessed something nearly invisible.
