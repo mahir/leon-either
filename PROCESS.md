@@ -4,7 +4,7 @@ Leon Either is an invented conceptual artist (he/him). His site publishes one ne
 
 ## 1. Get the repository
 
-1. Clone or pull the site's repository, `mahir/mario-mamodei`, and work on its default branch, `main`.
+1. Clone or pull the site's repository, `mahir/leon-either`, and work on its default branch, `main`.
 2. Confirm these exist at the root: `works.json`, `build.py`, `style.css`, `sources.md`, `PROCESS.md`. If any is missing, stop and report it.
 
 ## 2. Work out the slot
