@@ -112,3 +112,50 @@ footer {
   font-size: 0.72rem;
   letter-spacing: 0.02em;
 }
+
+/* Mark: the half circle from the favicon */
+.mast a { display: inline-flex; align-items: center; gap: 0.5em; }
+.mark { width: 0.85em; height: 0.85em; fill: currentColor; flex: none; }
+
+/* Latest work */
+.latest { display: block; max-width: 20rem; margin: 0 0 clamp(3rem, 8vw, 4.5rem); }
+.latest figure { margin: 0; }
+.latest img { display: block; width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; background: var(--plate); }
+.latest figcaption {
+  margin-top: 0.75rem;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+}
+.latest .no { color: var(--quiet); margin-right: 0.6em; }
+.latest:hover .t { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+
+/* Next work: an empty row that fills in when the work arrives */
+.index .next .no, .index .next time { color: var(--quiet); opacity: 0.75; }
+.index .next .blank { font-size: 1.05rem; }
+@media (max-width: 34rem) {
+  .index .next .blank { display: none; }
+}
+
+/* Hover image beside the list, pointer devices with room only */
+.list { position: relative; }
+.peek { display: none; }
+@media (hover: hover) and (min-width: 72rem) {
+  .peek {
+    display: block;
+    position: absolute;
+    left: calc(100% + 2.5rem);
+    top: 0;
+    width: 12rem;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    background: var(--plate);
+    opacity: 0;
+    transform: translateY(-50%);
+    transition: opacity 0.2s ease;
+    pointer-events: none;
+  }
+  .peek:not([src]) { visibility: hidden; }
+  .peek.on { opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) { .peek { transition: none; } }

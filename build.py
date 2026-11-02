@@ -9,8 +9,9 @@ import html
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 ARTIST = "Leon Either"
@@ -23,6 +24,15 @@ PUBLIC = ["title", "text"]
 PRIVATE = ["image_prompt", "note", "medium"]  # never stored: prompts go to the user in chat
 DASHES = re.compile("[\u2013\u2014]")  # en and em dash
 SLUG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+NY = ZoneInfo("America/New_York")
+SLOT_HOURS = (9, 21)  # the schedule: 9 am and 9 pm, New York time
+ARRIVING_HOURS = 3  # after a slot passes, the next row says "arriving" this long before moving on
+# The half circle from the favicon, inline so it takes the ink colour.
+MARK = (
+    '<svg class="mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">'
+    '<path d="M16 2.5a13.5 13.5 0 0 0 0 27z"/>'
+    '<circle cx="16" cy="16" r="13.5" fill="none" stroke="currentColor" stroke-width="3"/></svg>'
+)
 
 
 def fail(msg):
@@ -115,7 +125,7 @@ def page(title, body, root):
 </head>
 <body>
 <main>
-<header class="mast"><a href="{root}index.html">{ARTIST}</a></header>
+<header class="mast"><a href="{root}index.html">{MARK}{ARTIST}</a></header>
 {body}
 </main>
 </body>
@@ -151,20 +161,90 @@ def work_page(w):
     return page(f"{w['title']} | {ARTIST}", body, "../")
 
 
+def slots_after(dt, count=60):
+    """The next schedule slots after dt, as epoch milliseconds, DST included."""
+    day = dt.astimezone(NY).date()
+    out = []
+    while len(out) < count:
+        for h in SLOT_HOURS:
+            t = datetime(day.year, day.month, day.day, h, tzinfo=NY)
+            if t > dt:
+                out.append(int(t.timestamp() * 1000))
+        day += timedelta(days=1)
+    return out[:count]
+
+
+NEXT_SCRIPT = """<script>
+(function () {
+  var next = document.querySelector(".index .next");
+  if (next) {
+    var slots = next.getAttribute("data-slots").split(",").map(Number);
+    var late = next.getAttribute("data-arriving") * 3600000;
+    var t = next.querySelector("time");
+    var tick = function () {
+      var now = Date.now(), i = 0;
+      while (i < slots.length - 1 && now >= slots[i] + late) i++;
+      var s = slots[i], m = Math.ceil((s - now) / 60000), h = Math.round(m / 60);
+      if (now >= s + late) { t.textContent = "next"; return; }
+      t.textContent = m <= 0 ? "arriving" : m < 60 ? "in " + m + (m === 1 ? " minute" : " minutes")
+        : "in " + h + (h === 1 ? " hour" : " hours");
+      t.setAttribute("datetime", new Date(s).toISOString());
+    };
+    tick();
+    setInterval(tick, 30000);
+  }
+  var peek = document.querySelector(".peek");
+  if (!peek || !window.matchMedia("(hover: hover)").matches) return;
+  var cur = null;
+  peek.addEventListener("load", function () { if (cur) peek.classList.add("on"); });
+  peek.addEventListener("error", function () { peek.classList.remove("on"); });
+  document.querySelectorAll(".index a[data-img]").forEach(function (a) {
+    a.addEventListener("mouseenter", function () {
+      cur = a;
+      var li = a.parentNode, src = a.getAttribute("data-img");
+      peek.style.top = (li.offsetTop + li.offsetHeight / 2) + "px";
+      if (peek.getAttribute("src") === src) { if (peek.complete && peek.naturalWidth) peek.classList.add("on"); }
+      else { peek.classList.remove("on"); peek.src = src; }
+    });
+    a.addEventListener("mouseleave", function () { cur = null; peek.classList.remove("on"); });
+  });
+})();
+</script>"""
+
+
 def index_page(works):
     e = html.escape
     rows = "\n".join(
         f'<li><span class="no">{w["number"]:03d}</span>'
-        f'<a href="works/{w["slug"]}.html">{e(w["title"])}</a>'
+        f'<a href="works/{w["slug"]}.html" data-img="works/{w["_images"][0]["file"]}">{e(w["title"])}</a>'
         f'<time datetime="{w["date"]}">{when_short(w["_dt"])}</time></li>'
         for w in reversed(works)
     )
+    latest = works[-1]
+    nxt = (
+        f'<li class="next" data-slots="{",".join(map(str, slots_after(latest["_dt"])))}" data-arriving="{ARRIVING_HOURS}">'
+        f'<span class="no">{latest["number"] + 1:03d}</span><span class="blank">&nbsp;</span><time>next</time></li>'
+    )
+    # The newest work's main image. If its file has not arrived yet, the image removes itself and shows nothing.
+    shown = latest["_images"][0]
+    figure = (
+        f'<a class="latest" href="works/{latest["slug"]}.html"><figure>'
+        f'<img src="works/{shown["file"]}" alt="{e(shown["alt"])}" onerror="this.closest(\'.latest\').remove()">'
+        f'<figcaption><span class="no">{latest["number"]:03d}</span> <span class="t">{e(latest["title"])}</span></figcaption>'
+        f'</figure></a>'
+    )
     body = f"""<p class="bio">{e(BIO)}</p>
+{figure}
 <p class="label">{e(TAGLINE)}</p>
+<div class="list">
 <ol class="index" reversed>
+{nxt}
 {rows}
 </ol>
-<footer>{ARTIST}. {len(works)} {'work' if len(works) == 1 else 'works'}.</footer>"""
+<img class="peek" alt="" aria-hidden="true">
+</div>
+<footer>{ARTIST}. {len(works)} {'work' if len(works) == 1 else 'works'}.</footer>
+{NEXT_SCRIPT}"""
     return page(ARTIST, body, "")
 
 
