@@ -18,23 +18,35 @@ Leon Either is an invented conceptual artist (he/him). His site publishes one ne
 
 1. Read `sources.md` in full.
 2. Read every entry in `works.json`. Look hardest at the last ten.
-3. Note for the last three works: their `form`, the artists and thinkers named in their `text`, their central idea (time, belief, language), and their central object or action (clocks, a walk, a letter, a count).
+3. Note for the last five works: their `form`, what the work physically is and where it sits (read the `alt` text of each image: a card on a wall, an object on a plinth, a room), how the images were shot, the artists and thinkers named in their `text`, their central idea (time, belief, language), their central object or action (clocks, a walk, a letter, a count), and how each essay is built (length, where the references fall, how it ends).
 
 ## 3b. Study the library
 
 `library/` holds study notes on more than sixty conceptual artists, classic and contemporary.
 
 1. Read `library/INDEX.md` and `library/MOVES.md`.
-2. Pick two or three artist files that bear on the idea you are forming, or on a move you might use, and read them in full. Vary the choice from run to run, and avoid the artists named in the last two works.
+2. Pick two or three artist files that bear on the idea you are forming, or on a move you might use, and read them in full. Vary the choice from run to run, and avoid the artists named in the last five works.
 3. Use them to reach an original idea, never to restate one. Each file's "Do not reuse" list is binding: no work, title, set-up or well-known line from it.
 4. Library facts marked [checked] or [known] may be cited; check anything marked [verify] first, as with `sources.md`.
+
+## 3c. Vary the work
+
+The series must not settle into a formula. Before choosing an idea, check it against the last five works from step 3. All of these are required:
+
+- **A different kind of thing.** The new work must differ in what it physically is from each of the last five, not just in its `form` label. Kinds to rotate through include: an object, an action or performance, a work sited outdoors (street, field, shore, city), a sound, a map or diagram, a publication or something mailed to someone, found material, data or a record, a text work that is not a card on a wall. Never repeat the medium of the last work.
+- **Cards and wall text: at most once in five.** A typed card, label or text pinned or painted on a wall may appear in at most one of any five works in a row. The same goes for an object on a white plinth.
+- **Vary the images.** Change the setting (outdoors, street, home, studio, landscape, archive, a table, a hand), the shot (wide, detail, overhead, a sequence over time), the light and the era or kind of photograph (colour snapshot, crisp contemporary, archival print, aerial). Grainy 1960s or 1970s gallery documentation may be used in at most one of any five works.
+- **Vary the essay.** Change its length and shape from the last few: short or long, one sustained thought or several turns, a story, a question left open. References can be one, several, or none, and can come anywhere, not always two near the end. Do not end every essay on a one-line aphorism.
+- **Vary the voices.** Do not lean on any artist or thinker named in the last five works. Use `library/INDEX.md` to find artists the series has not used yet.
+
+If the idea you have fails any of these, change the idea, not just the wording.
 
 ## 4. Write the work
 
 Constraints, all required:
 
 - **New.** It must not restate an existing artwork, from `sources.md` or anywhere else you know of. If a close match exists, change the idea, not just the wording. Never reuse a known title or a well-known line.
-- **No repeats within the series.** New title. Different `form` from each of the last two works. A different central object or action from each of the last three. Do not lean on the same artist, thinker or central idea as either of the last two works.
+- **No repeats within the series.** New title. Different `form` from each of the last two works. A different central object or action from each of the last three. A different central idea from the last two. Section 3c applies too: what the work physically is, its images, the shape of its essay and the artists it draws on must all vary across the last five.
 - **One idea.** The piece should turn on a single clear move that a reader gets in one pass.
 - **One text.** The page shows only the title, the image, the text and the date. Everything else, including any reference to other artists, lives inside the text. There is no separate note, label or caption.
 - **Plain language.** Short sentences, everyday words, no art jargon. No en dashes or em dashes anywhere (build.py rejects them).
@@ -59,12 +71,12 @@ Do not add `image_prompt`, `note` or `medium` to `works.json`; build.py rejects 
 
 The text is the artwork's page. It is a philosophical, conceptual essay by Leon Either about what the work means: its idea, what it opens up, what it reveals once you see it. Deep and artistic, but in plain words.
 
-- About 120 to 250 words, in short paragraphs separated by a blank line (`\n\n` in JSON).
+- About 100 to 300 words, in short paragraphs separated by a blank line (`\n\n` in JSON). Vary the length and shape from work to work (section 3c).
 - Before writing, read No. 001's text in `works.json` ("Twelve Hours Apart") and treat it as the bar for tone and depth. This is conceptual art writing, not a description or a set of steps.
 - Do not open with, or read as, an instruction or a how-to. The image shows the work; the text thinks about it. Name the work's objects only as far as the thinking needs them.
 - Ask what the work is really about and follow that all the way down. It might be an idea, a feeling, a question, an observation or a contradiction; let the work decide. Write about a paradox only when the work actually has one.
-- Weave in one to three references to artists, works or thinkers where they move the argument forward, as part of the thought, never as a list or a credit line. Describe them accurately. Name only items marked [checked] or [known] in `sources.md`; verify anything else with a web search first and add it there with its mark.
-- End on a short line that turns the idea once more. No summary, no explaining the joke.
+- Weave in references to artists, works or thinkers only where they move the argument forward: none, one or several, anywhere in the essay, as part of the thought, never as a list or a credit line. Describe them accurately. Name only items marked [checked] or [known] in `sources.md`; verify anything else with a web search first and add it there with its mark.
+- End where the thought ends. Sometimes that is a short line that turns the idea once more, but not every time. No summary, no explaining the joke.
 - Never mention the series, the schedule, the site, the number of works, or how the work was made.
 - No art jargon. First person is allowed but not required.
 
@@ -72,12 +84,12 @@ The text is the artwork's page. It is a philosophical, conceptual essay by Leon 
 
 The user generates the images with an image service from your prompts. Never make images yourself, in code or otherwise. Prompts never go on the site or in the repository; they go only in the message in section 8.
 
-Write one to three prompts, your choice, to suit the concept. One strong installation shot is often enough. Add a second or third only when it shows something the first cannot: a close up of a detail that carries the idea, a different view or moment, or a different image altogether.
+Write one to three prompts, your choice, to suit the concept. One strong image is often enough. Add a second or third only when it shows something the first cannot: a close up of a detail that carries the idea, a different view or moment, or a different image altogether.
 
-- Each prompt describes one photographable scene: the work installed or carried out, an object, a typed card, words on a wall, a page.
+- Each prompt describes one photographable scene: the work installed or carried out, an object, a place, an action in progress, a page, a map. Follow section 3c on cards and wall text.
 - Make each prompt complete on its own, with no reference to the others.
 - Be literal and concrete: what is in frame, where, materials, colours, light, camera angle, framing.
-- House look, unless the work calls for something else: documentary photograph, white or near white gallery setting, soft even daylight, muted neutral colour, slight film grain, in the manner of 1960s and 1970s conceptual art documentation. The site is light, so bright white walls sit well on it.
+- There is no fixed house look. Choose the setting, framing, light and kind of photograph to suit the work, and make them differ from the last few works (section 3c). A white gallery with grainy 1960s or 1970s documentation is one option among many, used at most once in five works. Whatever the look, keep it documentary and believable, not glossy or staged like an advert.
 - If text appears in an image, give the exact words in capitals and keep it to a few words. Say where each word sits.
 - Any clock, number or count must be stated exactly (for example "both clocks show exactly 9:00").
 - End each with: "Square format, 1:1." and a list of exclusions (no people unless needed, no logos, no brand names, no other text).
