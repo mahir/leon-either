@@ -124,6 +124,9 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Britney Gallivan, high school student who in January 2002 worked out a formula for the limit of folding paper and then folded one very long strip of paper in half twelve times. Not an artist; cited as a fact. [checked]
 - Zeno of Elea, the millet seed paradox: does one grain of millet make a sound when it falls, since a bushel of it does? Reported by Aristotle, Physics VII.5. [checked]
 - Marcel Duchamp, With Hidden Noise, 1916: a ball of twine between two brass plates; Walter Arensberg put an unknown object inside, which Duchamp never learned. See `library/marcel-duchamp.md`. [checked]
+- Heraclitus, the "same river twice" fragment, known mainly through Plato's Cratylus. [known]
+- Song Dong, Stamping the Water, 1996: an hour in the Lhasa River stamping the water with a carved wooden seal; held by the Met. See `library/song-dong.md`. [checked]
+- Robert Smithson, Nonsites, from 1968, for example A Nonsite (Franklin, New Jersey), 1968: rock taken from a site, set in wooden bins in a gallery, with a map of the place it came from. [checked]
 
 ## Works by Leon Either
 

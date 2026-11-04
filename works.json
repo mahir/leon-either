@@ -169,5 +169,41 @@
         "alt": "Close up of the small white typed card pinned to the wall, reading SAY GOODBYE TO THE ROOM. on one line and STAY. below it."
       }
     ]
+  },
+  {
+    "number": 11,
+    "slug": "the-water-that-stayed",
+    "title": "The Water That Stayed",
+    "date": "2026-11-03T21:00:00-05:00",
+    "form": "Duration or documentation piece (action outdoors)",
+    "text": "A litre of water was taken from a river on a cold morning and carried home. It sat on a shelf for a year, corked, out of the sun. Then it was carried back to the same bend, beside the same stone, and poured in.\n\nIn that year the river did what rivers do. Everything that was in it at that bend went on to the sea, rose, fell as rain somewhere else, and went on again. The river kept its name and its shape and changed every drop of itself. Heraclitus is remembered for saying that you cannot step into the same river twice. He was thinking of the river. He did not ask about the water.\n\nThe water in the bottle was the one part of the river that did not move. For a year it held still while the river ran on without it. So it went back as a stranger. It was the oldest thing in the river, a year behind everything around it.\n\nOr the other way round. Perhaps the bottle kept the river, and the river was what left.\n\nSong Dong once sat in the Lhasa River and stamped its surface with a carved wooden seal, again and again, for an hour. The water took every mark and kept none. This river does the same with a return. A second after the pour, the old water is spread out, mixed in, carried off. Nothing in the river knows that anything came back.\n\nDid it come home? By the time the bottle was empty, the water was already passing under the bridge, and no one could have pointed to it.",
+    "images": [
+      {
+        "file": "the-water-that-stayed-1.jpg",
+        "alt": "A hand pours clear water from a small glass bottle, its cork removed, into a shallow, stony river bend on a cold, bright morning, with a wooden footbridge downstream."
+      },
+      {
+        "file": "the-water-that-stayed-2.jpg",
+        "alt": "A small glass bottle of slightly cloudy river water, corked, with a thin layer of silt at the bottom, stands on a plain wooden shelf by a kitchen window."
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "slug": "the-wrong-here",
+    "title": "The Wrong Here",
+    "date": "2026-11-04T09:00:00-05:00",
+    "form": "Found object",
+    "text": "This map stood at the gate of a park for many years. Then the park got a new one, and this one was sold off as salvage and carried across the city to a small flat. It still shows every path, the pond, the four gates, the bandstand. All of that is still true. The only thing that went wrong is the red dot.\n\nYOU ARE HERE. The words have not changed and the paint has not moved, and now they are false. Nothing about the map broke. The world simply stayed where it was, and the map left it.\n\nA sign like this is made of two kinds of words. Most of it names things that stay put: a pond, a gate, a bench. But you and here are different. They belong to whoever reads them, wherever that reader stands. You still works. It finds every new person who looks. Here was painted down, so it stayed behind with the park while the rest of the sentence came along.\n\nRobert Smithson carried rock away from a site in New Jersey, set it in wooden bins in a gallery, and hung beside it a map of the place it came from. The place was absent, and the map pointed back to it. This is the same move turned around. The map came, and the place stayed home.\n\nStand in the kitchen and read it. You are here, it says, and points at a pond two miles away. It is wrong about where you are and right about everything else.\n\nHow many of the true things we carry are like this, accurate about the world and mistaken only about us?",
+    "images": [
+      {
+        "file": "the-wrong-here-1.jpg",
+        "alt": "An old green park map board, with a red dot and the words YOU ARE HERE, leans against the wall of a small city kitchen beside a radiator and a table."
+      },
+      {
+        "file": "the-wrong-here-2.jpg",
+        "alt": "Close up of the faded painted map, where a red dot marked YOU ARE HERE sits beside a small blue pond and a path."
+      }
+    ]
   }
 ]
