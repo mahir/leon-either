@@ -241,5 +241,23 @@
         "alt": "A bare, muddy garden bed on an overcast March day, empty except for one thin red tulip standing slightly crooked near the middle."
       }
     ]
+  },
+  {
+    "number": 15,
+    "slug": "everyone-lying-still",
+    "title": "Everyone Lying Still",
+    "date": "2026-11-05T21:00:00-05:00",
+    "form": "Data or record (one night of a seismometer's paper trace)",
+    "text": "Under the city, in a basement, a needle rests on a slowly turning drum of paper. It was put there to wait for earthquakes. Most nights none comes, and still the line it draws is never straight. All night it trembles with something smaller: buses, trains, doors, feet on stairs, a few million people going about their lives. The ground carries all of it, and the needle cannot tell one from another.\n\nSo this is a portrait of everyone in the city, and no one is in it. At midnight the line is thick and nervous. After one it thins. At a quarter to four it goes nearly flat, as close to still as a city gets. A little after five the first trains pull it back into a shiver.\n\nNobody planned that flat stretch, and nobody saw it happen. It is the one moment in the day when the most people at once were doing nothing, and it took a machine to notice, because to a person stillness is not an event.\n\nDouglas Huebler set out to photograph everyone alive, knowing he would fail, and the few pictures he took showed how little any record can hold. This record holds everyone and shows nothing about any of them. On Kawara sent telegrams for thirty years that said only that he was still alive. The trace says the same for a whole city, in a hand no one can read as words.\n\nI care most about the flat part. Even there the needle never stops. The quietest a city can be is still not quiet. Somewhere a pipe, a fridge, one person who could not sleep.",
+    "images": [
+      {
+        "file": "everyone-lying-still-1.jpg",
+        "alt": "In a bare concrete basement, a drum recorder turns a sheet of paper covered in rows of trembling ink lines, with one band of rows near the middle almost flat."
+      },
+      {
+        "file": "everyone-lying-still-2.jpg",
+        "alt": "An empty city street before dawn, wet under orange street lamps, where every window in a row of tall apartment buildings is dark except one."
+      }
+    ]
   }
 ]
