@@ -349,5 +349,27 @@
         "alt": "An open library book seen from above on a wooden table, with a single small word, THE, lightly circled in pencil in the middle of a page."
       }
     ]
+  },
+  {
+    "number": 21,
+    "slug": "nothing-we-made",
+    "title": "Nothing We Made",
+    "date": "2026-11-08T21:00:00-05:00",
+    "form": "Map (a printed city street map marked by hand)",
+    "text": "A city is a thing people made, and it goes almost all the way down. The pavement, the trees in their iron grates, the river in its stone sleeve, the light at night. Even the pigeons live on what we drop.\n\nSo I went looking for the gaps. Places in the city where you can stand, look straight ahead, and see nothing anyone made. Not a wire, not a kerb, not a vapour trail.\n\nI found three. On this map they are three pencil dots. One is a knot of roots under a bridge, where the bank has never been cleared. One is a puddle that holds only sky, if you stand in the right spot and look down. One is the bark of an old plane tree, seen from so close that the street behind it is gone.\n\nNone of them is a wild place. Each one is a way of standing. Take one step and the city comes back. What is untouched there is not the ground. It is a narrow angle of looking, held still.\n\nAnd at every dot there was someone standing. My eyes, my hands, the half of me that was built. So there was one made thing in each view after all, and I could not step out of the frame to take it away.\n\nI am not sure the map is true. Maybe a place where nothing made can be seen only exists when no one is there to see it. I left the dots in pencil.",
+    "images": [
+      {
+        "file": "nothing-we-made-1.jpg",
+        "alt": "A folded paper street map of a city lies open on the wooden slats of a park bench, marked with three small pencil dots, a pencil resting beside it."
+      },
+      {
+        "file": "nothing-we-made-2.jpg",
+        "alt": "The mottled bark of an old plane tree fills the whole frame, grey, olive and cream, with nothing else in view."
+      },
+      {
+        "file": "nothing-we-made-3.jpg",
+        "alt": "The same plane tree stands at the edge of a busy pavement, with traffic, a lamppost and shopfronts all around it."
+      }
+    ]
   }
 ]
