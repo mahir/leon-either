@@ -277,5 +277,23 @@
         "alt": "Two gloved hands at a steel desk hold an opened blank envelope and an unfolded sheet handwritten in capitals: IF YOU ARE READING THIS, IT ARRIVED."
       }
     ]
+  },
+  {
+    "number": 17,
+    "slug": "two-seconds-away",
+    "title": "Two Seconds Away",
+    "date": "2026-11-06T21:00:00-05:00",
+    "form": "Event score (action outdoors, sound)",
+    "text": "On a hillside at dusk, facing a bare cliff across a valley, a man calls his own name once. Then he waits.\n\nThe cliff is about three hundred and fifty metres away. Sound takes a second to get there and a second to come back. For those two seconds the name is out in the air, belonging to no one, travelling. Then it arrives, a little thinner, from the other side.\n\nThis is the only way to hear your name spoken in your own voice by something that is not you. Anyone else who says it says it in their voice. The rock adds nothing. It hands back exactly what it was given, only later and further off, the way Ovid's Echo could speak only the last words of others. She had lost her own voice. The cliff never had one.\n\nAnd still the name lands like an answer. It is hard not to turn toward it. For a moment the one who called is also the one being called, and the space between them can be measured: two seconds, a third of a kilometre, nothing at all.\n\nThen the valley is quiet, and he does not call again.",
+    "images": [
+      {
+        "file": "two-seconds-away-1.jpg",
+        "alt": "At dusk a lone man stands on a grassy hillside with his hands cupped to his mouth, calling across a misty valley toward a bare grey cliff."
+      },
+      {
+        "file": "two-seconds-away-2.jpg",
+        "alt": "A bare grey limestone cliff face across a valley at dusk, empty and still, seen straight on from the far hillside."
+      }
+    ]
   }
 ]

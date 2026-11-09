@@ -129,6 +129,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Robert Smithson, Nonsites, from 1968, for example A Nonsite (Franklin, New Jersey), 1968: rock taken from a site, set in wooden bins in a gallery, with a map of the place it came from. [checked]
 - Charles Darwin, with his son Francis, The Power of Movement in Plants, 1880: on how roots and shoots bend to light and gravity; ends by saying the tip of the radicle acts like the brain of one of the lower animals. [known]
 - Pierre Huyghe, Untilled (Liegender Frauenakt), 2012, dOCUMENTA (13): a concrete reclining nude whose head is a living beehive. See `library/pierre-huyghe.md`. [checked]
+- Ovid, Metamorphoses, Book III: the nymph Echo, punished by Juno, can only repeat the last words she hears; she wastes away until only her voice is left. [known]
 
 ## Works by Leon Either
 
