@@ -313,5 +313,23 @@
         "alt": "An ordinary daylight photograph, seen from above, of the same bare slab of grey stone on a wooden table by a window, with nothing visible on it."
       }
     ]
+  },
+  {
+    "number": 19,
+    "slug": "lent-sun",
+    "title": "Lent Sun",
+    "date": "2026-11-07T21:00:00-05:00",
+    "form": "Gift (a public intervention in a street)",
+    "text": "Across a narrow street from a basement room, a window high up gets the winter sun. A small round mirror is fixed to its sill on a bracket, tilted so that for eleven minutes each afternoon a patch of light falls down past the railings and onto the floor of a room the sun does not otherwise reach between November and February.\n\nNothing is made here. The light is taken at one window and handed to another. It is strange that this feels like giving, because sunlight seems like the one thing no one can own. And yet we act as if someone does. In England a window that has had daylight for twenty years can win a legal right to keep it, and some old walls in London still carry small painted signs that say ANCIENT LIGHTS, as if daylight were a kind of land, fenced by time.\n\nThere is an old story that Alexander came to Diogenes, who was lying in the sun, and offered him whatever he wanted. Diogenes asked him to stand a little out of his light. The most powerful man alive was taking the only thing Diogenes had, simply by standing there.\n\nThe mirror stands in the way of the sun on purpose. It blocks a hand's width of it, which the window above will never miss, and sends that width down to a floor that will wait for it.\n\nSo what has been given? Not the light, which was always going to land somewhere. Only a choice about where it lands, made by someone who will never see it arrive.",
+    "images": [
+      {
+        "file": "lent-sun-1.jpg",
+        "alt": "In a dim basement room with bare boards, a single bright oval patch of winter sunlight lies on the floor beside an empty wooden chair, cast down through a window that looks up at a brick wall across the street."
+      },
+      {
+        "file": "lent-sun-2.jpg",
+        "alt": "Close up of a small round mirror on a metal bracket fixed to the stone sill of an upper window in a brick building, flashing with low winter sun."
+      }
+    ]
   }
 ]
