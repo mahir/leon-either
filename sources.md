@@ -127,6 +127,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Heraclitus, the "same river twice" fragment, known mainly through Plato's Cratylus. [known]
 - Song Dong, Stamping the Water, 1996: an hour in the Lhasa River stamping the water with a carved wooden seal; held by the Met. See `library/song-dong.md`. [checked]
 - Robert Smithson, Nonsites, from 1968, for example A Nonsite (Franklin, New Jersey), 1968: rock taken from a site, set in wooden bins in a gallery, with a map of the place it came from. [checked]
+- Aristotle, Poetics, chapter 7: a whole is what has a beginning, a middle and an end; the beginning need not follow anything, the end follows something with nothing after it, the middle has something before and after. [known]
 - Ancient lights: in English law a window that has had daylight for twenty years can acquire a legal right to keep it (Prescription Act 1832); some old London walls carry painted ANCIENT LIGHTS signs. Not an artwork; cited as a fact. [known]
 - Diogenes and Alexander: asked what he wanted, Diogenes told Alexander to stand a little out of his sun. Told by Plutarch (Life of Alexander) and Diogenes Laertius. [known]
 - Charles Darwin, with his son Francis, The Power of Movement in Plants, 1880: on how roots and shoots bend to light and gravity; ends by saying the tip of the radicle acts like the brain of one of the lower animals. [known]
