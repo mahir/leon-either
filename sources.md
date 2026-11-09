@@ -125,6 +125,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Zeno of Elea, the millet seed paradox: does one grain of millet make a sound when it falls, since a bushel of it does? Reported by Aristotle, Physics VII.5. [checked]
 - Marcel Duchamp, With Hidden Noise, 1916: a ball of twine between two brass plates; Walter Arensberg put an unknown object inside, which Duchamp never learned. See `library/marcel-duchamp.md`. [checked]
 - Heraclitus, the "same river twice" fragment, known mainly through Plato's Cratylus. [known]
+- Plato, Symposium: Aristophanes' speech, in which people were once double until Zeus cut them in half, and each half searches for the other. [known]
 - Song Dong, Stamping the Water, 1996: an hour in the Lhasa River stamping the water with a carved wooden seal; held by the Met. See `library/song-dong.md`. [checked]
 - Robert Smithson, Nonsites, from 1968, for example A Nonsite (Franklin, New Jersey), 1968: rock taken from a site, set in wooden bins in a gallery, with a map of the place it came from. [checked]
 - Aristotle, Poetics, chapter 7: a whole is what has a beginning, a middle and an end; the beginning need not follow anything, the end follows something with nothing after it, the middle has something before and after. [known]
