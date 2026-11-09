@@ -295,5 +295,23 @@
         "alt": "A bare grey limestone cliff face across a valley at dusk, empty and still, seen straight on from the far hillside."
       }
     ]
+  },
+  {
+    "number": 18,
+    "slug": "where-the-hand-was",
+    "title": "Where the Hand Was",
+    "date": "2026-11-07T09:00:00-05:00",
+    "form": "Photo and text (a thermal photograph beside an ordinary one)",
+    "text": "A hand lay flat on a slab of grey stone for an hour, and then it lifted. In daylight nothing happened. The stone looks exactly as it did before. But to a camera that sees heat, the hand is still there: a glowing print, a palm and five fingers, brightest where it pressed hardest, already going dim at the tips.\n\nIt is the only portrait a body can leave without leaving anything. No ink, no dust, no mark. Just a little of what being alive is, which is being warmer than the room.\n\nRobert Barry let measured amounts of gas loose into the air in 1969, and that was the work. The gas went everywhere, which is to say nowhere you could point to. Warmth does the same thing, only slower and closer. The stone does not keep the hand. It shares it out, to the air above and the table below, until the print is the same as the rest of the stone, and the stone is a fraction warmer than it was, all over, where no one can see.\n\nHeat only moves one way, from warm to cold. So the print can only fade, never sharpen. It runs in the same direction as time, at its own pace: a few minutes, for a hand.\n\nThe two pictures were taken in the same second. In one, the stone is bare. In the other, someone has only just let go.",
+    "images": [
+      {
+        "file": "where-the-hand-was-1.jpg",
+        "alt": "A thermal photograph, seen from above, of a slab of grey stone on a wooden table, where the glowing yellow and orange print of a hand fades to red at the fingertips against the cold blue stone."
+      },
+      {
+        "file": "where-the-hand-was-2.jpg",
+        "alt": "An ordinary daylight photograph, seen from above, of the same bare slab of grey stone on a wooden table by a window, with nothing visible on it."
+      }
+    ]
   }
 ]
