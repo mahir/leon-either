@@ -259,5 +259,23 @@
         "alt": "An empty city street before dawn, wet under orange street lamps, where every window in a row of tall apartment buildings is dark except one."
       }
     ]
+  },
+  {
+    "number": 16,
+    "slug": "lost-on-purpose",
+    "title": "Lost on Purpose",
+    "date": "2026-11-06T09:00:00-05:00",
+    "form": "Mail piece (insertion into the postal system)",
+    "text": "An envelope with a stamp on it and nothing else. No name, no street, no return address. It went into a post box like any other letter, and the post took it in like any other letter.\n\nA letter like this cannot be delivered. That is the whole of it. Every machine and every hand that sorts it fails to send it anywhere, and each failure moves it one step on. In the end it reaches the one room where the post keeps what it could not deliver. There, and only there, someone is allowed to open a letter that is not theirs.\n\nSo the letter does have an address. It is written in what is missing. The only way to reach that room, and the person who works in it, is to be lost.\n\nInside is one sheet. IF YOU ARE READING THIS, IT ARRIVED.\n\nCildo Meireles printed questions on returnable glass bottles and let them go back into circulation, so a system built to carry one thing carried another without noticing. This letter rides a system too, but it hides nothing. It goes the whole way by being wrong at every step.\n\nMost letters are written for one person and opened by that person. The clerk in that room opens thousands written for someone else. This is the one written for them. No one could have put their name on it. Leaving it blank was the only way to be sure it got there.",
+    "images": [
+      {
+        "file": "lost-on-purpose-1.jpg",
+        "alt": "In a large mail sorting hall under bright overhead lights, one blank white envelope with only a stamp on it lies in a grey plastic tray among hundreds of addressed letters."
+      },
+      {
+        "file": "lost-on-purpose-2.jpg",
+        "alt": "Two gloved hands at a steel desk hold an opened blank envelope and an unfolded sheet handwritten in capitals: IF YOU ARE READING THIS, IT ARRIVED."
+      }
+    ]
   }
 ]
