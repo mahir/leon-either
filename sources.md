@@ -135,6 +135,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Pierre Huyghe, Untilled (Liegender Frauenakt), 2012, dOCUMENTA (13): a concrete reclining nude whose head is a living beehive. See `library/pierre-huyghe.md`. [checked]
 - Ovid, Metamorphoses, Book III: the nymph Echo, punished by Juno, can only repeat the last words she hears; she wastes away until only her voice is left. [known]
 - Alan Turing, "Computing Machinery and Intelligence", Mind, 1950: proposes the imitation game, in which an interrogator holds a written conversation and tries to tell a machine from a person. [known]
+- Lucretius, De Rerum Natura, Book I: a ring wears thin on the finger, paving is worn by the feet of crowds, and the right hands of bronze statues by the city gates are worn by passers-by touching them in greeting; we see the loss, but nature hides the moment each particle goes. [known]
 
 ## Works by Leon Either
 
