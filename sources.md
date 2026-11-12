@@ -134,6 +134,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Charles Darwin, with his son Francis, The Power of Movement in Plants, 1880: on how roots and shoots bend to light and gravity; ends by saying the tip of the radicle acts like the brain of one of the lower animals. [known]
 - Pierre Huyghe, Untilled (Liegender Frauenakt), 2012, dOCUMENTA (13): a concrete reclining nude whose head is a living beehive. See `library/pierre-huyghe.md`. [checked]
 - Ovid, Metamorphoses, Book III: the nymph Echo, punished by Juno, can only repeat the last words she hears; she wastes away until only her voice is left. [known]
+- Alan Turing, "Computing Machinery and Intelligence", Mind, 1950: proposes the imitation game, in which an interrogator holds a written conversation and tries to tell a machine from a person. [known]
 
 ## Works by Leon Either
 

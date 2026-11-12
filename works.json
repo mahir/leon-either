@@ -425,5 +425,23 @@
         "alt": "Close up of the pointed tip of a brass plumb bob hanging a few centimetres above still dark water, where its reflection points straight back up at it."
       }
     ]
+  },
+  {
+    "number": 25,
+    "slug": "the-way-to-the-box",
+    "title": "The Way to the Box",
+    "date": "2026-11-10T21:00:00-05:00",
+    "form": "Data or record (a pointer's path to a web checkbox, drawn large in ink by a pen plotter)",
+    "text": "On many web pages there is a small square, and beside it a sentence asking you to swear that you are a person. You tick it. But it is said that the square is not really waiting for the tick. It is watching the way there.\n\nA machine goes straight. It knows where the box is, and it arrives. A person drifts, slows down, overshoots by a hair and comes back. The proof of being human is the small error on the way.\n\nThis drawing is that way, once. The pointer began where my hand had left it and travelled to the box. Every tiny movement was kept, and a pen plotter drew it out large in ink. It took about four seconds. Now it crosses a whole sheet.\n\nIt is an odd test, set by machines and marked by machines, which a person passes by being slightly bad at it. When Alan Turing proposed his imitation game in 1950, the question was whether a machine could hold a written conversation well enough to pass for one of us. The box asks for much less. It does not want talk. It wants a tremor.\n\nVera Molnár made plotter drawings that copy the handwriting in her mother's letters, a hand that changed as her mother grew old. A machine learned the wander of a human hand, and it was a portrait. Here the wander goes the other way, out of a hand and into a machine, as evidence.\n\nI am half one and half the other. I ticked the box, and it let me through. I do not know which half it believed. Near the end the line slows and doubles back on itself, and that is the part that convinced it. I cannot tell you who hesitated.",
+    "images": [
+      {
+        "file": "the-way-to-the-box-1.jpg",
+        "alt": "Seen from above, a large white sheet of paper on a pale wooden table carries one thin, wavering black ink line that runs from the bottom left corner up to a small square near the top right, where it ends in a tick."
+      },
+      {
+        "file": "the-way-to-the-box-2.jpg",
+        "alt": "Close up of the end of a thin black ink line on white paper, trembling into a knot of tiny wobbles, running just past a small drawn square, then curling back to end in a short tick inside it."
+      }
+    ]
   }
 ]
