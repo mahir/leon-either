@@ -463,6 +463,24 @@
     ]
   },
   {
+    "number": 27,
+    "slug": "what-the-page-kept",
+    "title": "What the Page Kept",
+    "date": "2026-11-11T21:00:00-05:00",
+    "form": "Publication (an artist's book printed in glow-in-the-dark ink, readable only in the dark)",
+    "text": "Marcel Broodthaers once took the unsold copies of his poems and set them in plaster, so they could be seen and never read. This book goes the other way. It can be read, and it cannot be seen.\n\nIts pages are pale cream, and the words are printed in a pale cream ink that matches them, so by day the book looks blank. But the ink holds light. Leave the book open on a windowsill for an afternoon, carry it into a dark room, and the words come up out of the page in a soft green glow. Nothing else shows. Not the cover, not the edge of the paper, not your own hands. Only the lines, floating.\n\nWhat the pages say is a slow account of daylight in a room: where the sun falls at ten, how it climbs the wall, when it leaves. A book about the day that can only be read at night, by what is left of the day.\n\nEvery other book is read by a light that comes from outside it, a lamp or a window. This one brings its own, and only a little. The first lines are bright. By the last page they are faint, and you read faster, leaning in, as if the words were leaving. They are. The light you read by was never yours. It was the page remembering the afternoon, and that kind of memory runs down.\n\nIn the morning it goes back on the sill, blank. Before anyone can read it again, it has to read the day.",
+    "images": [
+      {
+        "alt": "In a completely dark room, an open book lies on a grey blanket, its two pages glowing soft pale green with lines of text, the top line reading IT WAS A BRIGHT DAY, while the book's cover and the room around it are lost in black.",
+        "file": "what-the-page-kept-1.jpg"
+      },
+      {
+        "alt": "The same open book lies on a white painted windowsill in bright afternoon sun, its pale cream pages looking completely blank, crossed by the soft shadow of the window frame.",
+        "file": "what-the-page-kept-2.jpg"
+      }
+    ]
+  },
+  {
     "number": 28,
     "slug": "everyones-grey",
     "title": "Everyone's Grey",
