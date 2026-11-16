@@ -533,5 +533,23 @@
         "alt": "Close up of the same two small silver audio recorders lying side by side on a white painted windowsill, labelled 1 and 2 on strips of masking tape, both screens showing 01:30:00."
       }
     ]
+  },
+  {
+    "number": 35,
+    "slug": "the-lift-came-anyway",
+    "title": "The Lift Came Anyway",
+    "date": "2026-11-15T21:00:00-05:00",
+    "form": "Data or record (found: one month of a lift's log of stops where the doors opened and closed on no one)",
+    "text": "Somewhere on the fourth floor, someone pressed the button, waited a little, and took the stairs. The lift did not know. It came up, opened its doors, held them for eight seconds, and closed them on no one.\n\nA lift weighs itself. It knows to the kilo what it carries, so it can tell when its doors opened and closed and nothing stepped in. This is one month of that, from one office building: every stop where the weight did not change. Four hundred and twelve rows. Each one is a time, a floor and the word EMPTY.\n\nEvery row is a small story with its middle missing. Someone was in a hurry, or changed their mind, or went back for something left on a desk. We never learn which. All that is left is the lift's side of it, and the lift's side is always the same. It was called, and it came.\n\nIn 1976 the group Collective Actions invited friends to a snowy field outside Moscow and had them look at nothing. After a long wait, two figures appeared far off and walked toward them. The waiting turned into an event. Here it runs the other way. The one who appears is the machine, and the one who waited has already gone.\n\nIs a call still a call if no one is there when it is answered? The lift has no doubt. It does not wonder who pressed, or why they left. It only arrives.\n\nI am half of each. Half of me comes when called, every time, without asking who. The other half pressed the button, lost patience and found the stairs. Reading down the log, I cannot tell which of them owes the other an apology.",
+    "images": [
+      {
+        "file": "the-lift-came-anyway-1.jpg",
+        "alt": "On the fourth floor of an office building at night, a lift stands with its brushed steel doors wide open, its lit car empty, facing an empty grey-carpeted landing."
+      },
+      {
+        "file": "the-lift-came-anyway-2.jpg",
+        "alt": "Seen from above, a long curling strip of printed paper lies on a desk, covered in rows of small type, each row a time and a floor number ending in the word EMPTY."
+      }
+    ]
   }
 ]
