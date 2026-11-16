@@ -140,6 +140,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Fabio Falchi and others, "The new world atlas of artificial night sky brightness", Science Advances, June 2016: the Milky Way is hidden from more than a third of humanity, and from about 80 percent of North Americans. [checked] (paper and the 80 percent figure confirmed by search on 14 Nov 2026; the one third figure [known])
 - Names for the Milky Way: Finnish Linnunrata, path of the birds; Swedish Vintergatan, the winter street; Chinese yinhe, the silver river. [known]
 - B. F. Skinner, "'Superstition' in the Pigeon", Journal of Experimental Psychology, 1948: hungry pigeons fed from a hopper at fixed intervals whatever they did came to repeat whatever movement they had made before food arrived, such as turning in circles, as if it brought the food. [checked]
+- Benoit Mandelbrot, "How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension", Science, 1967: the measured length of a coastline grows as the measuring stick gets shorter, building on Lewis Fry Richardson's earlier measurements. Not an artist; cited as a fact. [known]
 
 ## Works by Leon Either
 
