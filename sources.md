@@ -137,6 +137,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Alan Turing, "Computing Machinery and Intelligence", Mind, 1950: proposes the imitation game, in which an interrogator holds a written conversation and tries to tell a machine from a person. [known]
 - Lucretius, De Rerum Natura, Book I: a ring wears thin on the finger, paving is worn by the feet of crowds, and the right hands of bronze statues by the city gates are worn by passers-by touching them in greeting; we see the loss, but nature hides the moment each particle goes. [known]
 - Plutarch, Life of Theseus 23: the Athenians kept the ship of Theseus for centuries, replacing each rotten plank with new timber until every plank had been replaced, and philosophers argued over whether it was still the same ship. [known]
+- Fabio Falchi and others, "The new world atlas of artificial night sky brightness", Science Advances, June 2016: the Milky Way is hidden from more than a third of humanity, and from about 80 percent of North Americans. [checked] (paper and the 80 percent figure confirmed by search on 14 Nov 2026; the one third figure [known])
+- Names for the Milky Way: Finnish Linnunrata, path of the birds; Swedish Vintergatan, the winter street; Chinese yinhe, the silver river. [known]
 
 ## Works by Leon Either
 
