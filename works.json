@@ -659,5 +659,23 @@
         "alt": "Close up over the same marble café table, a small child's open hand lies flat over an adult's closed fist, beside a white espresso cup."
       }
     ]
+  },
+  {
+    "number": 38,
+    "slug": "downwind",
+    "title": "Downwind",
+    "date": "2026-11-17T09:00:00-05:00",
+    "form": "Object sited outdoors (a rooftop weathervane rebuilt so its arrow points where the wind is going, not where it comes from)",
+    "text": "A weathervane points into the wind. Its broad tail is pushed away, and its arrow swings round to face the air coming at it. So the arrow on a roof is always aimed somewhere else: at the hills, at the sea, at the place the weather was.\n\nOur words do the same. A north wind is a wind that comes from the north. We name a wind by where it was born, never by where it is going.\n\nThis vane has been rebuilt. The arrowhead is now fixed to the tail, so it turns its back to the wind and points the way the air is heading. It agrees with the smoke from the chimney beside it, with the leaves in the gutter, with the coat of whoever walks below. It is the only instrument on the roof facing the same way as the thing it measures.\n\nIn 1940 Walter Benjamin wrote about a picture by Paul Klee of an angel. He saw in it the angel of history, its face turned toward the past, watching the wreckage pile up at its feet, while a storm blew it backwards into a future it could not see. Every weathervane stands like that angel. It stares at where things came from and is turned by them.\n\nThis one has turned round. It cannot stop the storm, and it knows nothing more than the others do. Any arrow can be read backwards. It has only changed the question the roof is asking, from where from to where to.\n\nIt points down the street now, past the bus stop and the last houses, toward the next town, where the weather it is reading has not arrived yet.",
+    "images": [
+      {
+        "file": "downwind-1.jpg",
+        "alt": "On the ridge of a grey slate roof under an overcast autumn sky, a black iron weathervane points to the right, the same way the smoke from the chimney beside it is drifting."
+      },
+      {
+        "file": "downwind-2.jpg",
+        "alt": "Close up against a pale grey sky of the end of a black iron weathervane where a pointed arrowhead has been bolted onto the broad flat tail fin, with a few dry leaves blowing past in the direction it points."
+      }
+    ]
   }
 ]

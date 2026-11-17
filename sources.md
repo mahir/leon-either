@@ -143,6 +143,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Benoit Mandelbrot, "How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension", Science, 1967: the measured length of a coastline grows as the measuring stick gets shorter, building on Lewis Fry Richardson's earlier measurements. Not an artist; cited as a fact. [known]
 - Robert Rauschenberg, Erased de Kooning Drawing, 1953: Rauschenberg asked Willem de Kooning for a drawing to erase; de Kooning chose one that would be hard to rub out; the near blank sheet was framed as the work. SFMOMA collection. [known]
 - Sigmund Freud, "A Note upon the Mystic Writing-Pad", 1925: a toy pad of a wax slab under a thin covering sheet; lifting the sheet clears the writing, but the wax keeps every trace; Freud took it as a model of memory. Not an artist; cited as a thinker. [known]
+- Walter Benjamin, "On the Concept of History", 1940, thesis IX: reads Paul Klee's Angelus Novus (1920) as the angel of history, face turned toward the past, watching the wreckage pile up, blown backwards into the future by a storm. Not an artist; cited as a thinker. [known]
 
 ## Works by Leon Either
 
