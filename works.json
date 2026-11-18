@@ -695,5 +695,23 @@
         "alt": "Close up inside the top of the same upright piano, a hand holds a steel tuning lever fitted onto one of the rows of tuning pins above the taut strings, with the edge of the white refrigerator just visible beyond the piano's side."
       }
     ]
+  },
+  {
+    "number": 40,
+    "slug": "sent-here",
+    "title": "Sent Here",
+    "date": "2026-11-18T09:00:00-05:00",
+    "form": "Mail piece (a picture postcard of a small town library, written WISH YOU WERE HERE and posted to that library)",
+    "text": "A picture postcard of a small town library, bought at the newsagent across the road from it. On the back, in the space for a message, I wrote the four words postcards have always carried: WISH YOU WERE HERE. Then I addressed it to the library, and posted it.\n\nA postcard is built on a distance. The picture shows one place, the stamp pays to carry it to another, and the message spans the gap. Here is lovely. You are not here. The card is the thin bridge between.\n\nThis one has nothing to cross. It shows the library and goes to the library. Even so, it made the whole journey. It was taken from the box at the end of the street, driven to a sorting office in another town, read by a machine, and driven back, so that the postman could carry it in through the very doors it shows.\n\nJoseph Kosuth once stood a chair beside a photograph of that chair and a dictionary entry for the word. In the gap between the three, a thing, its picture and its name, the work happens. A postcard lives in that gap. It is made of it. Sent home, it closes the gap and becomes something strange: a picture with its subject standing all around it.\n\nAnd the wish? It is granted, but to no one. The library is here and has always been here. Of all the readers a postcard could find, it is the only one that could never wish to be anywhere else.\n\nSomeone at the front desk read it and pinned it to the noticeboard by the door, among the times of the knitting group and a note about a lost glove, picture side out.",
+    "images": [
+      {
+        "file": "sent-here-1.jpg",
+        "alt": "Just inside the entrance of a small public library in daylight, a cork noticeboard of paper notices holds one picture postcard, fixed with a red pin, whose faded photograph shows the front of this same red brick library."
+      },
+      {
+        "file": "sent-here-2.jpg",
+        "alt": "Close up of a hand holding the back of the postcard, with WISH YOU WERE HERE handwritten in blue ink on the left, the library's address on the right, and a stamp with a round postmark in the corner."
+      }
+    ]
   }
 ]
