@@ -677,5 +677,23 @@
         "alt": "Close up against a pale grey sky of the end of a black iron weathervane where a pointed arrowhead has been bolted onto the broad flat tail fin, with a few dry leaves blowing past in the direction it points."
       }
     ]
+  },
+  {
+    "number": 39,
+    "slug": "in-the-key-of-the-kitchen",
+    "title": "In the Key of the Kitchen",
+    "date": "2026-11-17T21:00:00-05:00",
+    "form": "Sound (an upright piano in a home kitchen retuned so its notes agree with the hum of the mains)",
+    "text": "Every house has a note. It is the one you stop hearing a minute after you walk in: the fridge, the transformer in the wall, the low steady hum of electricity arriving. Here it comes at sixty cycles a second, and it never stops to breathe.\n\nThat pitch is not on the piano. It falls in the crack between B flat and B, a little too high for one and a little too low for the other. So the upright in this kitchen has been retuned, all eighty-eight notes let down by the same small amount, until one of its keys sounds the hum exactly and the rest follow from it.\n\nNow it is out of tune with every other instrument in the world, and in tune with the room.\n\nIn 1977 the composer R. Murray Schafer gave a name to a sound like this. He called it a keynote: the sound a place is pitched in, so constant that we hear everything else against it and never hear it at all. He borrowed the word from music, where the keynote is the home a melody keeps leaving and coming back to.\n\nThe piano has taken the word back. Play a song on it and the kitchen plays along, holding the one note it has held for years. For the first time the hum is not under the music. It is part of it.\n\nOnly one thing will put this piano wrong. A storm, a blown fuse, a night when the power goes out. Then the house falls silent, and every chord in the room is suddenly a little flat of nothing.",
+    "images": [
+      {
+        "file": "in-the-key-of-the-kitchen-1.jpg",
+        "alt": "In a small home kitchen at evening, an old upright wooden piano with its lid open stands against the wall right beside a white refrigerator, lit by a warm ceiling lamp, with a stool in front and no one playing."
+      },
+      {
+        "file": "in-the-key-of-the-kitchen-2.jpg",
+        "alt": "Close up inside the top of the same upright piano, a hand holds a steel tuning lever fitted onto one of the rows of tuning pins above the taut strings, with the edge of the white refrigerator just visible beyond the piano's side."
+      }
+    ]
   }
 ]

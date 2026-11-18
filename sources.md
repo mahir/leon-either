@@ -144,6 +144,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Robert Rauschenberg, Erased de Kooning Drawing, 1953: Rauschenberg asked Willem de Kooning for a drawing to erase; de Kooning chose one that would be hard to rub out; the near blank sheet was framed as the work. SFMOMA collection. [known]
 - Sigmund Freud, "A Note upon the Mystic Writing-Pad", 1925: a toy pad of a wax slab under a thin covering sheet; lifting the sheet clears the writing, but the wax keeps every trace; Freud took it as a model of memory. Not an artist; cited as a thinker. [known]
 - Walter Benjamin, "On the Concept of History", 1940, thesis IX: reads Paul Klee's Angelus Novus (1920) as the angel of history, face turned toward the past, watching the wreckage pile up, blown backwards into the future by a storm. Not an artist; cited as a thinker. [known]
+- R. Murray Schafer, The Tuning of the World, 1977: coined the soundscape term keynote, the sound a place is pitched in, so constant it is heard as background and not noticed; the word borrowed from music, where the keynote is the home note of a key. Not an artist in the series' sense; cited as a composer and thinker. [known]
+- Mains hum: alternating current in North America runs at 60 cycles a second, and the hum it sets up sits between B flat and B in standard concert tuning (A at 440). Cited as a fact. [known]
 
 ## Works by Leon Either
 
