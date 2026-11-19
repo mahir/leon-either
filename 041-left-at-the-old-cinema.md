@@ -1,0 +1,15 @@
+# No. 041 Left at the Old Cinema
+
+## Image 1 (main shot)
+
+```
+A colour snapshot on 35mm film, taken on the high street of a small English market town in low late afternoon winter sunlight, long shadows, cold clear air. In the foreground, filling the lower left half of the frame, a single adult hand in a dark green wool glove holds up an unfolded sheet of cream paper about the size of a large road map, slightly creased along its folds. On the paper is a hand-drawn street map in thin black ink: a few streets as pairs of ruled lines, and several building shapes drawn only as empty dashed outlines, nothing solid. Across one dashed rectangle near the middle of the sheet, in neat hand-lettered black capitals, are the words THE OLD CINEMA; this is the only legible text on the map. The map is held up so that this dashed rectangle lines up with the building directly across the road behind it: a modern phone shop with a plain grey fascia with no sign, a wide plain glass shopfront and a display of phones in the window, set in an older two storey brick building with a tall arched window above that hints it was once a cinema. Wet pavement, a parked bicycle at the kerb, pedestrian crossing lights on a pole to the right. The map is in sharp focus; the shop is slightly soft. Natural colour, gentle film grain, unposed and documentary. Square format, 1:1. Exclusions: no faces, no logos, no brand names, no shop signs, no other legible text on the map or in the street, no cars in the foreground.
+```
+
+## Image 2
+
+```
+A crisp close up photograph of part of a hand-drawn street map in thin black ink on cream paper, shot at a slight angle, with soft low winter daylight raking across from the left so the paper's creases and fibres show. Thin pairs of ruled ink lines mark three streets meeting at a junction. Every building on the map is drawn only as an empty dashed outline, nothing filled in. Exactly three dashed outlines carry hand-lettered black capitals: a small square outline labelled THE BAKERY at the top left, an irregular rounded dashed outline labelled THE POND at the bottom left, and a larger rectangle labelled THE OLD CINEMA at the right edge of the frame, partly cut off. At the corner where the streets meet, a single small tree is drawn in dashed line. A fold line crosses the paper diagonally. The edge of a dark green wool glove holding the sheet is just visible at the bottom right corner. Shallow depth of field, the lettering of THE BAKERY in sharp focus. Square format, 1:1. Exclusions: no people, no logos, no brand names, no other text or labels, no compass rose, no printed map symbols.
+```
+
+Checks: the same hand-drawn map (cream paper, thin black ink streets, dashed outlines) in both shots; THE OLD CINEMA, THE BAKERY and THE POND legible and spelled right, no other legible text; in the main shot the OLD CINEMA outline lines up with a plain glass phone shop front across the road, and the map is a plausible size in the hand against the street; a small tree in dashed line at a corner in the close up.
