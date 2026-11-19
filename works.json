@@ -713,5 +713,23 @@
         "alt": "Close up of a hand holding the back of the postcard, with WISH YOU WERE HERE handwritten in blue ink on the left, the library's address on the right, and a stamp with a round postmark in the corner."
       }
     ]
+  },
+  {
+    "number": 41,
+    "slug": "left-at-the-old-cinema",
+    "title": "Left at the Old Cinema",
+    "date": "2026-11-18T21:00:00-05:00",
+    "form": "Map (a street map of a town drawn only from the landmarks that are gone, gathered from the directions people living there give)",
+    "text": "\"Go down past where the bakery was, and turn left at the old cinema. You can't miss it.\"\n\nEvery town gives directions like this. The bakery closed years ago. The cinema is a phone shop now, and was a bank and a carpet warehouse in between. Ask anyone who has lived here long enough, and the way still runs through them.\n\nSo I asked. For a month I stopped people on the high street, asked the way to places, and wrote down every landmark they gave me that was no longer there. This map is drawn from nothing else. A pond that was filled in. A dairy, a school, a chestnut tree that came down in a storm. Each one sits in dashed outline where it stood. Everything still standing is left out.\n\nIt is the town people carry, the one they walk through in their heads while their feet walk the other.\n\nAnd it has a strange flaw. It only works for those who do not need it. A visitor holding it on the corner sees a phone shop and a label that says THE OLD CINEMA, and cannot make the two agree. Someone born here would give the same directions with their eyes shut.\n\nJorge Luis Borges wrote of an empire whose mapmakers drew a map as large as the empire itself. Later generations found it useless and left it to the weather, and its torn pieces lay in the western deserts, sheltering animals and beggars. That map outlived its use. Here it is the other way round. The use has outlived the town.\n\nLuis Camnitzer once made a room with no furniture in it, only the names of furniture written on the walls and floor, and let the visitor furnish it. A town does this to itself without anyone deciding. Each time someone says left at the old cinema, the cinema is built again for a moment, in the space between two people on a pavement. Then the lights change, and they cross.",
+    "images": [
+      {
+        "file": "left-at-the-old-cinema-1.jpg",
+        "alt": "On a small town high street in low winter sunlight, a hand holds up an unfolded hand-drawn street map on cream paper, its dashed outline labelled THE OLD CINEMA lined up with the plain glass front of a phone shop across the road."
+      },
+      {
+        "file": "left-at-the-old-cinema-2.jpg",
+        "alt": "Close up of the same hand-drawn map, where thin black ink streets run between empty dashed outlines labelled THE BAKERY, THE POND and THE OLD CINEMA, with a small drawn tree in dashed line at a corner."
+      }
+    ]
   }
 ]

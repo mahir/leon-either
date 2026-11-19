@@ -146,6 +146,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Walter Benjamin, "On the Concept of History", 1940, thesis IX: reads Paul Klee's Angelus Novus (1920) as the angel of history, face turned toward the past, watching the wreckage pile up, blown backwards into the future by a storm. Not an artist; cited as a thinker. [known]
 - R. Murray Schafer, The Tuning of the World, 1977: coined the soundscape term keynote, the sound a place is pitched in, so constant it is heard as background and not noticed; the word borrowed from music, where the keynote is the home note of a key. Not an artist in the series' sense; cited as a composer and thinker. [known]
 - Mains hum: alternating current in North America runs at 60 cycles a second, and the hum it sets up sits between B flat and B in standard concert tuning (A at 440). Cited as a fact. [known]
+- Jorge Luis Borges, "On Exactitude in Science", 1946: a one paragraph fable of an empire whose cartographers made a map the size of the empire, point for point; later generations found it useless and left it to the weather, and its tattered ruins lie in the western deserts, sheltering animals and beggars. Cited as a writer. [known]
+- Luis Camnitzer, Living Room, 1968 artist's book and 1969 installation: a room whose furniture and objects exist only as written labels on the walls and floor. See `library/luis-camnitzer.md`. [checked]
 
 ## Works by Leon Either
 
