@@ -150,6 +150,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Luis Camnitzer, Living Room, 1968 artist's book and 1969 installation: a room whose furniture and objects exist only as written labels on the walls and floor. See `library/luis-camnitzer.md`. [checked]
 - Plato, Republic, Book X: the many tables and beds that carpenters make are copies of the one true form of a table or bed, and a painting of a table is a copy of a copy. Cited as a philosopher. [known]
 - Martin Creed, Work No. 88, A sheet of A4 paper crumpled into a ball, 1994 to 1995. See `library/martin-creed.md`. [checked]
+- Daniel Defoe, Robinson Crusoe, 1719: after years alone on the island, Crusoe finds the print of a single bare foot on the shore, only one and no others, and is terrified by it. Not an artist; cited as a novel. [known]
 
 ## Works by Leon Either
 
