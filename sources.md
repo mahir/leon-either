@@ -154,6 +154,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - John Locke, Second Treatise of Government, chapter 5, "Of Property" (published 1689, title page dated 1690): a person makes a thing their property by mixing their labour with it. Cited as a philosopher. [known]
 - Aristotle, On Interpretation, chapter 9: whether the sentence "there will be a sea battle tomorrow" is true or false today; his answer is that statements about such future events are not yet either. Cited as a philosopher. [known]
 - Robert FitzRoy, head of what became the Met Office, began publishing daily weather forecasts in The Times in August 1861. He called them opinions reached by scientific calculation, not prophecies, and was mocked in the press when they failed. Not an artist; cited as a historical figure. Met Office archive page on FitzRoy found by web search, Nov 2026. [checked]
+- Sigmund Freud, The Psychopathology of Everyday Life, 1901: slips of the tongue and pen, forgetting and misreadings read as signs of thoughts or wishes held back, breaking through. Not an artist; cited as a thinker. [known]
 
 ## Works by Leon Either
 

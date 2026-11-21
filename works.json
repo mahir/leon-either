@@ -803,5 +803,23 @@
         "alt": "On a white painted windowsill, a thick small book with a plain blue-grey cover reading PROMISED WEATHER stands upright against a window streaked with rain, with wet rooftops blurred beyond."
       }
     ]
+  },
+  {
+    "number": 46,
+    "slug": "second-guess",
+    "title": "Second Guess",
+    "date": "2026-11-21T09:00:00-05:00",
+    "form": "Object and record (a year of every word my phone autocorrected, each written on a paper slip and pierced on one of two desk spikes: changed back, or let stand)",
+    "text": "Mizzle is a word for rain so fine that it hangs in the air instead of falling. I typed it once, to say what the weather was doing, and my phone changed it to muzzle. It was sure of itself. It had never seen the word, so the word could not be what I meant.\n\nFor a year I wrote down every word the phone changed as I typed, each on its own slip of paper, my word above and its word below. If I changed it back, the slip went on one spike. If I let it go, it went on the other.\n\nOne spike is short. The other is nearly full.\n\nMost of what I let go were small mistakes, a slipped finger or a doubled letter, and the phone was right. But not all. Some were names it did not know, words from places it had not heard of, words I had made up. Those it bent toward the nearest word that more people use. Not my word, and not the phone's either. A guess at what anyone would have meant, made from millions of strangers typing.\n\nFreud thought that a slip of the tongue or the pen gave us away. Something we had kept down broke through, and for a moment we said what we really meant. My slips never reach anyone now. They are caught on the way out and replaced, quietly, with what most people mean.\n\nHalf of me makes the slips and half of me catches them. I cannot say which half filled the taller spike. Every message went out under my name, and nobody who read them could tell.\n\nOutside it is mizzling again. I have typed the word so often that the phone lets it through now. It learned it from me, the way it learned everything else, from someone.",
+    "images": [
+      {
+        "file": "second-guess-1.jpg",
+        "alt": "On a wooden desk by a rainy window in late afternoon light, two steel desk spikes stand side by side, the left one stacked almost to the top with small handwritten paper slips and the right one holding only a few, with a phone lying face down between them."
+      },
+      {
+        "file": "second-guess-2.jpg",
+        "alt": "Close up of the top slip on the tall spike, pierced through its centre, with MIZZLE handwritten above the hole and MUZZLE below it."
+      }
+    ]
   }
 ]
