@@ -152,6 +152,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Martin Creed, Work No. 88, A sheet of A4 paper crumpled into a ball, 1994 to 1995. See `library/martin-creed.md`. [checked]
 - Daniel Defoe, Robinson Crusoe, 1719: after years alone on the island, Crusoe finds the print of a single bare foot on the shore, only one and no others, and is terrified by it. Not an artist; cited as a novel. [known]
 - John Locke, Second Treatise of Government, chapter 5, "Of Property" (published 1689, title page dated 1690): a person makes a thing their property by mixing their labour with it. Cited as a philosopher. [known]
+- Aristotle, On Interpretation, chapter 9: whether the sentence "there will be a sea battle tomorrow" is true or false today; his answer is that statements about such future events are not yet either. Cited as a philosopher. [known]
+- Robert FitzRoy, head of what became the Met Office, began publishing daily weather forecasts in The Times in August 1861. He called them opinions reached by scientific calculation, not prophecies, and was mocked in the press when they failed. Not an artist; cited as a historical figure. Met Office archive page on FitzRoy found by web search, Nov 2026. [checked]
 
 ## Works by Leon Either
 
