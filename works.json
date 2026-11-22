@@ -821,5 +821,23 @@
         "alt": "Close up of the top slip on the tall spike, pierced through its centre, with MIZZLE handwritten above the hole and MUZZLE below it."
       }
     ]
+  },
+  {
+    "number": 47,
+    "slug": "lit-for-the-street",
+    "title": "Lit for the Street",
+    "date": "2026-11-21T21:00:00-05:00",
+    "form": "Light work sited in a city (a lamp on a plug-in timer kept burning in the front window of an empty flat through one winter, for passers-by)",
+    "text": "Edward Hopper painted Night Windows in 1928: a lit room seen from outside, a woman half glimpsed inside it, a curtain lifting at the open window. We stand where the painter stood, out in the dark, and make up her whole evening from a few squares of yellow.\n\nFrom November to March I kept a lamp burning in the front window of an empty flat. The flat was between tenants, the boards bare, nothing on the walls. A plug-in timer switched the lamp on at dusk and off at a quarter past eleven, as if someone had gone to bed.\n\nNo one lived there. Every evening, someone did.\n\nA lit window is not really part of a home. It is the part of a home addressed to strangers. Whoever is inside never sees it; they see the room. The yellow square belongs to the street, to people walking back from the station with their keys already in their hands, who look up without deciding to and feel, for a second, that the building is full.\n\nWhat were they believing in? Not a person. A habit of light. The timer did nothing a person does except the one thing the street could see, and the street asked for nothing more.\n\nI went in once, late in January, after the lamp had clicked on. The room was cold. The lamp stood on the floor by the glass, lighting the window, a strip of skirting board and nothing else. Down on the pavement a man stopped to light a cigarette, glanced up, and walked on.\n\nFrom inside, I could not see what he saw.",
+    "images": [
+      {
+        "file": "lit-for-the-street-1.jpg",
+        "alt": "Seen from across a quiet city street on a cold clear winter evening, a four storey brick apartment building stands with every window dark except one on the second floor, which glows warm yellow from a lamp in an empty room."
+      },
+      {
+        "file": "lit-for-the-street-2.jpg",
+        "alt": "Inside a bare, unfurnished room at night, a small lamp with a cream fabric shade stands on the wooden floorboards against the window glass, its cord running to a white plug-in timer in the wall socket below, with the dark street and lit streetlamps outside."
+      }
+    ]
   }
 ]

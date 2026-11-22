@@ -155,6 +155,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Aristotle, On Interpretation, chapter 9: whether the sentence "there will be a sea battle tomorrow" is true or false today; his answer is that statements about such future events are not yet either. Cited as a philosopher. [known]
 - Robert FitzRoy, head of what became the Met Office, began publishing daily weather forecasts in The Times in August 1861. He called them opinions reached by scientific calculation, not prophecies, and was mocked in the press when they failed. Not an artist; cited as a historical figure. Met Office archive page on FitzRoy found by web search, Nov 2026. [checked]
 - Sigmund Freud, The Psychopathology of Everyday Life, 1901: slips of the tongue and pen, forgetting and misreadings read as signs of thoughts or wishes held back, breaking through. Not an artist; cited as a thinker. [known]
+- Edward Hopper, Night Windows, 1928, oil on canvas, Museum of Modern Art, New York: a lit upper window seen from outside at night, a woman in a slip half glimpsed inside, a curtain blowing out of the open window. Cited as a painter. [known]
 
 ## Works by Leon Either
 
