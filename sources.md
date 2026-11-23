@@ -157,6 +157,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Sigmund Freud, The Psychopathology of Everyday Life, 1901: slips of the tongue and pen, forgetting and misreadings read as signs of thoughts or wishes held back, breaking through. Not an artist; cited as a thinker. [known]
 - Edward Hopper, Night Windows, 1928, oil on canvas, Museum of Modern Art, New York: a lit upper window seen from outside at night, a woman in a slip half glimpsed inside, a curtain blowing out of the open window. Cited as a painter. [known]
 - Alvin Lucier, I Am Sitting in a Room, 1969, sound work: Lucier records himself reading a short text in a room, plays the recording back into the room and records it again, over and over, until the words dissolve into the resonant frequencies of the room. Cited as a composer. MoMA pages on the work found by web search, Nov 2026. [checked]
+- The Unknown Warrior, buried in Westminster Abbey on 11 November 1920: an unidentified British soldier chosen from several exhumed bodies so that no one could know who he was, buried as a grave for all the missing. Not an artwork; cited as a historical memorial. [known]
 
 ## Works by Leon Either
 
