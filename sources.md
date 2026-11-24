@@ -162,6 +162,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - The equation of time: through the year, solar noon runs up to about fourteen minutes behind clock noon (February) and about sixteen minutes ahead (early November), because the earth's axis is tilted and its orbit is an ellipse; a shadow marked at the same clock time each day traces a figure eight, the analemma. Not an artwork; cited as astronomy. [known]
 - John Cage in the anechoic chamber at Harvard, around 1951: in a room built to be silent he heard two sounds, one high and one low; the engineer told him the high one was his nervous system and the low one his blood circulating. Cage told the story in his writings (Silence, 1961) as proof that there is no true silence. Cited as a composer. [known]
 - The sea in a seashell: the rushing sound heard in a shell held to the ear is the surrounding room's faint noise, resonating in the shell's cavity, not the sea and not the listener's blood; in a very quiet room the shell goes nearly silent. Cited as a fact. [known]
+- Plato, Phaedrus, 275d: Socrates compares written words to painted figures, which look alive but keep a solemn silence when questioned; asked anything, a written text always says the same one thing and cannot defend itself. Cited as a philosopher. [known]
+- Xu Bing, Book from the Sky, about 1987 to 1991: hand-printed books and scrolls of about 4,000 invented characters that look Chinese and cannot be read. See `library/xu-bing.md`. [checked]
 
 ## Works by Leon Either
 
