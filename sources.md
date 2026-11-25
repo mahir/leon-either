@@ -164,6 +164,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - The sea in a seashell: the rushing sound heard in a shell held to the ear is the surrounding room's faint noise, resonating in the shell's cavity, not the sea and not the listener's blood; in a very quiet room the shell goes nearly silent. Cited as a fact. [known]
 - Plato, Phaedrus, 275d: Socrates compares written words to painted figures, which look alive but keep a solemn silence when questioned; asked anything, a written text always says the same one thing and cannot defend itself. Cited as a philosopher. [known]
 - Xu Bing, Book from the Sky, about 1987 to 1991: hand-printed books and scrolls of about 4,000 invented characters that look Chinese and cannot be read. See `library/xu-bing.md`. [checked]
+- Philip K. Dick, Do Androids Dream of Electric Sheep?, 1968: Deckard's electric sheep, kept on the roof and hidden from the neighbours as a machine. [checked]
 
 ## Works by Leon Either
 
