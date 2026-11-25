@@ -947,5 +947,23 @@
         "alt": "Close up from above into the blue pot, where water stands in a shallow pool on grey pebbles and beads on the plastic fronds, along one stem of which runs a thin moulded seam."
       }
     ]
+  },
+  {
+    "number": 54,
+    "slug": "stayed-in",
+    "title": "Stayed In",
+    "date": "2026-11-25T09:00:00-05:00",
+    "form": "Map (data or record: a phone's location guesses through a year of nights spent still in one bed, inked as dots on a printed street map)",
+    "text": "For a year of nights my phone lay on the table by my bed and wrote down, every few minutes, where it thought I was. I did not move. It did.\n\nOn a paper street map I put one dot of ink for every guess. Around the house they gather thick, but not on it. They spill into the back garden and the house next door, across the pavement and over the road, a few as far as the corner, one or two in the river at the bottom of the hill.\n\nA phone does not know where it is. It listens through the roof for satellites it can barely hear, for the neighbours' wifi, for masts on distant hills, and makes its best guess. On the screen that guess is a blue dot inside a pale circle. The dot is what we look at. The circle is the honest part: somewhere in here, probably.\n\nOn Kawara traced on city maps the routes he took each day, so that every map was proof a day had been lived and moved through. This map is the opposite. Nights in which nothing went anywhere, drawn as a spray of travel.\n\nFind the middle of all the dots and, by the machine's account, the place I spent most of my nights is the middle of the road outside.\n\nI knew where I was. I never had to work it out. That kind of knowing has no evidence behind it at all, only the dark, the weight of the covers, a car passing on the other side of the wall. The phone has nothing but evidence, and so it is never more than probably right.\n\nEvery morning I woke in the same bed. On the map it is one of the emptiest places in the street.",
+    "images": [
+      {
+        "file": "stayed-in-1.jpg",
+        "alt": "Seen from above in soft morning light, a large printed street map lies on a rumpled white duvet, covered in a loose cloud of small dark blue ink dots that thicken into a dark patch in the road in front of one pencil-outlined house, with a phone face down on the bedside table beside it."
+      },
+      {
+        "file": "stayed-in-2.jpg",
+        "alt": "Close up of the map, where one house in a terraced row is outlined in pencil with a small cross inside and holds only a few dots, while just outside it the dots crowd together across the pavement and the middle of the road into a solid dark patch."
+      }
+    ]
   }
 ]
