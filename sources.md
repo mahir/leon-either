@@ -165,6 +165,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Plato, Phaedrus, 275d: Socrates compares written words to painted figures, which look alive but keep a solemn silence when questioned; asked anything, a written text always says the same one thing and cannot defend itself. Cited as a philosopher. [known]
 - Xu Bing, Book from the Sky, about 1987 to 1991: hand-printed books and scrolls of about 4,000 invented characters that look Chinese and cannot be read. See `library/xu-bing.md`. [checked]
 - Philip K. Dick, Do Androids Dream of Electric Sheep?, 1968: Deckard's electric sheep, kept on the roof and hidden from the neighbours as a machine. [checked]
+- Daniel B. Murray and Scott W. Teare, Physical Review E 48, 2547, 1993: estimate that an American nickel tossed onto a hard surface lands on its edge about once in six thousand tosses. Not an artist; cited as a fact. APS record and Wikipedia "Coin flipping" found by web search, Nov 2026. [checked]
 
 ## Works by Leon Either
 

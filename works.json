@@ -965,5 +965,23 @@
         "alt": "Close up of the map, where one house in a terraced row is outlined in pencil with a small cross inside and holds only a few dots, while just outside it the dots crowd together across the pavement and the middle of the road into a solid dark patch."
       }
     ]
+  },
+  {
+    "number": 55,
+    "slug": "neither-face-up",
+    "title": "Neither Face Up",
+    "date": "2026-11-25T21:00:00-05:00",
+    "form": "Object (an action of chance: one coin tossed onto a kitchen floor, evening after evening, until it landed on its edge, then left standing where it fell)",
+    "text": "A coin toss is a small machine for ending a question. You hand it something you cannot decide, it spins, it falls, and the question comes back as one of two answers. Go or stay. Yes or no. The coin has two faces, so it can only say two things.\n\nThat is not quite true. Every coin has a third side, the thin ridged rim that runs all the way round it. We leave it out of the count because a coin almost never lands on it. In 1993 two physicists, Daniel Murray and Scott Teare, worked out that an American nickel tossed onto a hard floor should stand on its edge about once in six thousand throws.\n\nSo I took one coin and one question, the one I have never managed to settle about myself, and tossed it onto the kitchen floor, evening after evening, without calling it and without catching it, until it stood.\n\nJohn Baldessari threw three balls in the air thirty-six times, hoping they would make a straight line, and kept the best attempt. I was not after the best answer. I wanted the one the coin was never built to give.\n\nIt stood on the 4,207th toss, on the boards by the back door. I have not picked it up. I keep that door shut now, and walk round it.\n\nEvery other toss gave me an answer, and I let each one go. This is the only one I kept. Seen from where I stand, it is not heads and it is not tails. It is a coin turned side on, a thin bright line, all edge.",
+    "images": [
+      {
+        "file": "neither-face-up-1.jpg",
+        "alt": "Seen from low down on a worn wooden kitchen floor in early morning light, a single silver coin stands upright on its edge on the floorboards near a closed back door with a glass panel, casting a long thin shadow."
+      },
+      {
+        "file": "neither-face-up-2.jpg",
+        "alt": "Close up at floor level of the silver coin standing on its edge in a gap of light on the wooden boards, its worn face blank of any legible design and its finely ridged rim catching the light."
+      }
+    ]
   }
 ]
