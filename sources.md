@@ -167,6 +167,8 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Philip K. Dick, Do Androids Dream of Electric Sheep?, 1968: Deckard's electric sheep, kept on the roof and hidden from the neighbours as a machine. [checked]
 - Daniel B. Murray and Scott W. Teare, Physical Review E 48, 2547, 1993: estimate that an American nickel tossed onto a hard surface lands on its edge about once in six thousand tosses. Not an artist; cited as a fact. APS record and Wikipedia "Coin flipping" found by web search, Nov 2026. [checked]
 - Roland Barthes, Camera Lucida, 1980: the Winter Garden photograph of his mother as a small girl, the one image in which he found her as she was; he refused to reproduce it in the book because for anyone else it would be an ordinary photograph. Cited as a writer. [known]
+- Collective Actions, Appearance, 13 March 1976, a snowy field in Izmailovo Park, Moscow: invited people stood looking at an empty field until two figures appeared far off, walked toward them and handed out certificates of attendance. See `library/collective-actions.md`. [checked]
+- Edward Thomas, "Adlestrop" (written 1915, published 1917): an express train draws up unwontedly at the small Gloucestershire station of Adlestrop one June afternoon; no one leaves and no one comes. Cited as a poet. Poem and station checked by web search, Nov 2026. [checked]
 
 ## Works by Leon Either
 
