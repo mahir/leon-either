@@ -169,6 +169,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Roland Barthes, Camera Lucida, 1980: the Winter Garden photograph of his mother as a small girl, the one image in which he found her as she was; he refused to reproduce it in the book because for anyone else it would be an ordinary photograph. Cited as a writer. [known]
 - Collective Actions, Appearance, 13 March 1976, a snowy field in Izmailovo Park, Moscow: invited people stood looking at an empty field until two figures appeared far off, walked toward them and handed out certificates of attendance. See `library/collective-actions.md`. [checked]
 - Edward Thomas, "Adlestrop" (written 1915, published 1917): an express train draws up unwontedly at the small Gloucestershire station of Adlestrop one June afternoon; no one leaves and no one comes. Cited as a poet. Poem and station checked by web search, Nov 2026. [checked]
+- Uffington White Horse, Oxfordshire: a chalk hill figure cut in the Late Bronze Age, about three thousand years ago; its shape is hard to make out from the hill itself and reads best from the air or across the valley; local people scoured it clean every few years for centuries, or the grass would have covered it. Not an artist; cited as a landmark. English Heritage and Historic England pages found by web search, Nov 2026. [checked]
 
 ## Works by Leon Either
 
