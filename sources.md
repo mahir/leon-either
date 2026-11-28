@@ -172,6 +172,7 @@ Each of these is a different way for a work to exist. Rotate through them.
 - Uffington White Horse, Oxfordshire: a chalk hill figure cut in the Late Bronze Age, about three thousand years ago; its shape is hard to make out from the hill itself and reads best from the air or across the valley; local people scoured it clean every few years for centuries, or the grass would have covered it. Not an artist; cited as a landmark. English Heritage and Historic England pages found by web search, Nov 2026. [checked]
 - Marcel Proust, Swann's Way, 1913, the first volume of In Search of Lost Time: the narrator tastes a crumb of madeleine soaked in tea and the whole of Combray, the town of his childhood, comes back to him; he reflects that smell and taste remain long after everything else of the past is gone. Cited as a novelist. [known]
 - Olfactory adaptation: the sense of smell stops registering an odour that stays constant, so people soon cannot smell their own homes, though visitors can. Cited as a fact. [known]
+- Marcel Mauss, The Gift (Essai sur le don), 1925: to receive a gift is to owe; giving, receiving and returning bind the giver and the receiver. [known]
 
 ## Works by Leon Either
 
