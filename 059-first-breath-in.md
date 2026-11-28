@@ -1,0 +1,15 @@
+# No. 059 First Breath In
+
+## Image 1 (main shot)
+
+```
+A documentary colour photograph, crisp and contemporary, of the narrow front hallway of an ordinary terraced house on a grey winter morning, taken at standing eye height from a few steps inside, looking toward the front door. The front door, painted dark green, stands half open, and through it the flat grey daylight of a quiet street with wet pavement and a brick wall opposite. On the right-hand wall, four everyday coats (a navy wool coat, a beige raincoat, a grey parka, a red scarf over one hook) hang from a row of simple wooden pegs at shoulder height. Directly below the coats, at about waist height, a plain narrow pine shelf, about 60 cm long and 12 cm deep, is fixed to the wall. On the middle of the shelf stands one small clear glass perfume bottle, plain and rectangular with a simple silver metal cap, about 7 cm tall, roughly the height of a matchbox stood on end, holding pale amber liquid, with no label and no writing on it. The bottle is tiny next to the coats: their sleeves are many times its size. A worn coir doormat on the floor inside the door, old patterned floor tiles, cream walls. Soft natural light from the open door, cool and slightly blue, catching the glass so the bottle glows a little. Nothing else on the shelf. Square format, 1:1. No people, no logos, no brand names, no labels, no text anywhere, no house numbers.
+```
+
+## Image 2
+
+```
+A documentary colour close up photograph, crisp and contemporary, taken from directly above, looking straight down onto a plain pale pine wooden shelf with visible grain, in soft cool daylight coming from one side. In the centre stands one small clear glass perfume bottle seen from above, rectangular with a simple round silver metal cap, about 7 cm tall, holding pale amber liquid, with no label and no writing. To its left lies one thin white paper perfume smelling strip, about 13 cm long and 1 cm wide, its last 2 cm at one end darkened and slightly translucent where it was dipped in the scent. To its right lies one ordinary brass front door key, about 6 cm long, so the key is a little shorter than the bottle is tall and about half the length of the paper strip. The three objects lie apart from each other with a little bare wood between them. A soft shadow falls from each. Nothing else in frame. Square format, 1:1. No people, no hands, no logos, no brand names, no labels, no text anywhere.
+```
+
+Checks: one small unlabelled clear glass bottle of pale amber scent, same bottle (shape, size, colour) in both shots, no label or text; same plain pine shelf in both; main shot: narrow terraced hallway, front door open to a grey street, coats on wooden pegs above the shelf, bottle small next to the coats; close-up: white paper smelling strip with a darkened tip (about 13 cm) and a brass door key (about 6 cm) beside the bottle (about 7 cm tall); coats hang properly, nothing physically off.
